@@ -1,0 +1,23 @@
+# 来自：https://github.com/zryyyy/zryyyy/blob/main/.github/workflows/autodeploy.yml
+name: waka-readme
+on:
+  schedule:
+    - cron: "0 10,22 * * *" # 北京时间上午和下午的的6点自动执行
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update Waka Stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master #PLEASE USE MASTER BRANCH
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.TOKEN }}
+          LOCALE: "en"
+          SHOW_LOC_CHART: "False"
+          SHOW_TOTAL_CODE_TIME: "False" # 写代码总时间（标签）
+          SHOW_PROFILE_VIEWS: "False" # 项目浏览量（标签）
+          SHOW_LINES_OF_CODE: "False" # 代码行数（标签）
+          COMMIT_EMAIL: "chinagodman1@gmail.com"
+          COMMIT_USERNAME: "ChinaGodBot"
