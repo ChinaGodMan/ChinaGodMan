@@ -80,6 +80,7 @@ Hi there<!--小手来源https://github.com/mayhemantt/mayhemantt/blob/master/REA
 - ChinaGodMan/UserScriptsHistory: [refs/heads/main@b984ac2475145b62be0fd13fa1fac036167b1c43](https://github.com/ChinaGodMan/UserScriptsHistory/commit/b984ac2475145b62be0fd13fa1fac036167b1c43) - 更新 [`人民的勤务员`] 脚本统计数据
 - ChinaGodMan/UserScripts: [refs/heads/main@c1d8a81e9a7865133540807083384eec28fc3537](https://github.com/ChinaGodMan/UserScripts/commit/c1d8a81e9a7865133540807083384eec28fc3537) - docs(ci): 📝 谷歌翻译[`README{_xx}.md`]
 - ChinaGodMan/UserScripts: [refs/heads/main@d2c9edd8857b2abd37081c5342c8b7cf3657c61c](https://github.com/ChinaGodMan/UserScripts/commit/d2c9edd8857b2abd37081c5342c8b7cf3657c61c) - docs: ✏️ 手动更新列表
+- ChinaGodMan/UserScripts: [refs/heads/main@7a78c1e0b01c4e859b288fdc681fe30582e890d8](https://github.com/ChinaGodMan/UserScripts/commit/7a78c1e0b01c4e859b288fdc681fe30582e890d8) - feat: 🎸 增加一个函数用于对`readme`文件中无效的`相关脚本`分组进行删除
 <!-- END gadpp -->
 
 ---
