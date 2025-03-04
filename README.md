@@ -79,6 +79,7 @@ Hi there<!--小手来源https://github.com/mayhemantt/mayhemantt/blob/master/REA
 - ChinaGodMan/github-updater: [refs/heads/main@c9c71ebcd9a002c8ab1042f7eac5e167de409c66](https://github.com/ChinaGodMan/github-updater/commit/c9c71ebcd9a002c8ab1042f7eac5e167de409c66) - fix: 🐛 `lasted_version`→`latest_version`
 - ChinaGodMan/UserScriptsHistory: [refs/heads/main@b984ac2475145b62be0fd13fa1fac036167b1c43](https://github.com/ChinaGodMan/UserScriptsHistory/commit/b984ac2475145b62be0fd13fa1fac036167b1c43) - 更新 [`人民的勤务员`] 脚本统计数据
 - ChinaGodMan/UserScripts: [refs/heads/main@c1d8a81e9a7865133540807083384eec28fc3537](https://github.com/ChinaGodMan/UserScripts/commit/c1d8a81e9a7865133540807083384eec28fc3537) - docs(ci): 📝 谷歌翻译[`README{_xx}.md`]
+- ChinaGodMan/UserScripts: [refs/heads/main@d2c9edd8857b2abd37081c5342c8b7cf3657c61c](https://github.com/ChinaGodMan/UserScripts/commit/d2c9edd8857b2abd37081c5342c8b7cf3657c61c) - docs: ✏️ 手动更新列表
 <!-- END gadpp -->
 
 ---
