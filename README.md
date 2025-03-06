@@ -73,11 +73,11 @@ Hi there<!--小手来源https://github.com/mayhemantt/mayhemantt/blob/master/REA
  
 ### :zap:My Repositories recent commit Sat GitHub:
 <!-- START gadpp -->
+- ChinaGodMan/UserScripts: [refs/heads/main@a37f444dd15f4c52293d4c2695f19280197c7cd0](https://github.com/ChinaGodMan/UserScripts/commit/a37f444dd15f4c52293d4c2695f19280197c7cd0) - style(xvideos): 💄 硬编码`xvideos-enhance`脚本图标
 - ChinaGodMan/gitlens-zh-CN: [refs/heads/main@248241d27e5ee76ed43927f22fb5e5fcc0b81ca7](https://github.com/ChinaGodMan/gitlens-zh-CN/commit/248241d27e5ee76ed43927f22fb5e5fcc0b81ca7) - ci(release): 对资产标签进行发布
 - ChinaGodMan/git-pwsh: [refs/heads/main@f54863bdb9d553575a890a85cc08497fc250b0bd](https://github.com/ChinaGodMan/git-pwsh/commit/f54863bdb9d553575a890a85cc08497fc250b0bd) - docs:  :octocat: 更新文件
 - ChinaGodMan/UserScripts: [refs/heads/main@54364baf1e2ac687d0768c0630c5208f378983a5](https://github.com/ChinaGodMan/UserScripts/commit/54364baf1e2ac687d0768c0630c5208f378983a5) - docs(pornhub): 📝 增加说明和图片，抄袭自`GreasyFork`脚本`https://greasyfork.org/zh-CN/scripts/392449`
 - ChinaGodMan/github-updater: [refs/heads/main@c9c71ebcd9a002c8ab1042f7eac5e167de409c66](https://github.com/ChinaGodMan/github-updater/commit/c9c71ebcd9a002c8ab1042f7eac5e167de409c66) - fix: 🐛 `lasted_version`→`latest_version`
-- ChinaGodMan/UserScripts: [refs/heads/main@a8324772c1f76b6dc47a745249a992c801e9926d](https://github.com/ChinaGodMan/UserScripts/commit/a8324772c1f76b6dc47a745249a992c801e9926d) - chore(czg): 🔨 增加`czg`依赖，用于格式化`提交信息`
 <!-- END gadpp -->
 
 ---
