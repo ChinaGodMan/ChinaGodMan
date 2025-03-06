@@ -21,4 +21,4 @@ jobs:
           SHOW_LINES_OF_CODE: "False" # 代码行数（标签）
           COMMIT_EMAIL: "chinagodman1@gmail.com"
           COMMIT_USERNAME: "ChinaGodBot"
-          SHOW_PROFILE_VIEWS: "False"
+          SHOW_PROJECTS: "True"
