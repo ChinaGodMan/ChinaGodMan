@@ -73,11 +73,11 @@ Hi there<!--小手来源https://github.com/mayhemantt/mayhemantt/blob/master/REA
  
 ### :zap:My Repositories recent commit Sat GitHub:
 <!-- START gadpp -->
+- ChinaGodMan/UserScripts: [refs/heads/main@a8324772c1f76b6dc47a745249a992c801e9926d](https://github.com/ChinaGodMan/UserScripts/commit/a8324772c1f76b6dc47a745249a992c801e9926d) - chore(czg): 🔨 增加`czg`依赖，用于格式化`提交信息`
 - ChinaGodMan/UserScripts: [refs/heads/main@7a78c1e0b01c4e859b288fdc681fe30582e890d8](https://github.com/ChinaGodMan/UserScripts/commit/7a78c1e0b01c4e859b288fdc681fe30582e890d8) - feat: 🎸 增加一个函数用于对`readme`文件中无效的`相关脚本`分组进行删除
 - ChinaGodMan/UserScripts: [refs/heads/main@67ba9a6424bf9d34069f53bc98f843d6d8871a2d](https://github.com/ChinaGodMan/UserScripts/commit/67ba9a6424bf9d34069f53bc98f843d6d8871a2d) - chore(deps-dev): bump @stylistic/eslint-plugin-js from 3.1.0 to 4.2.0 (#96)
 - ChinaGodMan/gitlens-zh-CN: [refs/heads/main@248241d27e5ee76ed43927f22fb5e5fcc0b81ca7](https://github.com/ChinaGodMan/gitlens-zh-CN/commit/248241d27e5ee76ed43927f22fb5e5fcc0b81ca7) - ci(release): 对资产标签进行发布
 - ChinaGodMan/git-pwsh: [refs/heads/main@f54863bdb9d553575a890a85cc08497fc250b0bd](https://github.com/ChinaGodMan/git-pwsh/commit/f54863bdb9d553575a890a85cc08497fc250b0bd) - docs:  :octocat: 更新文件
-- ChinaGodMan/github-updater: [refs/heads/main@c9c71ebcd9a002c8ab1042f7eac5e167de409c66](https://github.com/ChinaGodMan/github-updater/commit/c9c71ebcd9a002c8ab1042f7eac5e167de409c66) - fix: 🐛 `lasted_version`→`latest_version`
 <!-- END gadpp -->
 
 ---
