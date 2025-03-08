@@ -85,9 +85,9 @@ Hi there<!--小手来源https://github.com/mayhemantt/mayhemantt/blob/master/REA
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#97](https://github.com/ChinaGodMan/UserScripts/issues/97#issuecomment-2698860148) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
-2. 🔒 Closed issue [#97](https://github.com/ChinaGodMan/UserScripts/issues/97) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
-3. 🔒 Closed issue [#4](https://github.com/LukeHagar/github-stats-remotion/issues/4) in [LukeHagar/github-stats-remotion](https://github.com/LukeHagar/github-stats-remotion)
+1. 🔒 Closed issue [#132](https://github.com/ChinaGodMan/UserScriptsHistory/issues/132) in [ChinaGodMan/UserScriptsHistory](https://github.com/ChinaGodMan/UserScriptsHistory)
+2. 🗣 Commented on [#97](https://github.com/ChinaGodMan/UserScripts/issues/97#issuecomment-2698860148) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
+3. 🔒 Closed issue [#97](https://github.com/ChinaGodMan/UserScripts/issues/97) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
 4. 🗣 Commented on [#4](https://github.com/LukeHagar/github-stats-remotion/issues/4#issuecomment-2693653558) in [LukeHagar/github-stats-remotion](https://github.com/LukeHagar/github-stats-remotion)
 5. ❗ Opened issue [#4](https://github.com/LukeHagar/github-stats-remotion/issues/4) in [LukeHagar/github-stats-remotion](https://github.com/LukeHagar/github-stats-remotion)
 6. 🗣 Commented on [#372](https://github.com/maboloshi/github-chinese/issues/372#issuecomment-2693053283) in [maboloshi/github-chinese](https://github.com/maboloshi/github-chinese)
