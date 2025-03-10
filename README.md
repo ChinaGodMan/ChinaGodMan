@@ -73,11 +73,11 @@ Hi there<!--小手来源https://github.com/mayhemantt/mayhemantt/blob/master/REA
  
 ### :zap:My Repositories recent commit Sat GitHub:
 <!-- START gadpp -->
+- ChinaGodMan/gitlens-zh-CN: [refs/heads/main@248241d27e5ee76ed43927f22fb5e5fcc0b81ca7](https://github.com/ChinaGodMan/gitlens-zh-CN/commit/248241d27e5ee76ed43927f22fb5e5fcc0b81ca7) - ci(release): 对资产标签进行发布
+- ChinaGodMan/UserScripts: [refs/heads/main@e18dabf304f06bf43314dcb8465bdc80c29d9d7e](https://github.com/ChinaGodMan/UserScripts/commit/e18dabf304f06bf43314dcb8465bdc80c29d9d7e) - style: 💄 `authors`去掉扩展名，防止构建`GreasyFork`导入url被错误的添加了。
 - ChinaGodMan/git-pwsh: [refs/heads/main@f54863bdb9d553575a890a85cc08497fc250b0bd](https://github.com/ChinaGodMan/git-pwsh/commit/f54863bdb9d553575a890a85cc08497fc250b0bd) - docs:  :octocat: 更新文件
 - ChinaGodMan/UserScripts: [refs/heads/main@48df7d76ef16a38d00bf624d4a260a81279d47b9](https://github.com/ChinaGodMan/UserScripts/commit/48df7d76ef16a38d00bf624d4a260a81279d47b9) - chore: 🔨 缩短名称
 - ChinaGodMan/UserScripts: [refs/heads/main@1aad755aa87bbeec88c7b6dba390a9d422b8b14c](https://github.com/ChinaGodMan/UserScripts/commit/1aad755aa87bbeec88c7b6dba390a9d422b8b14c) - docs(ci): 📝 谷歌翻译[`README{_xx}.md`]
-- ChinaGodMan/github-updater: [refs/heads/main@c9c71ebcd9a002c8ab1042f7eac5e167de409c66](https://github.com/ChinaGodMan/github-updater/commit/c9c71ebcd9a002c8ab1042f7eac5e167de409c66) - fix: 🐛 `lasted_version`→`latest_version`
-- ChinaGodMan/UserScripts: [refs/heads/main@35f97d89cc6304a67f7be49f14544cf91ae9d9c2](https://github.com/ChinaGodMan/UserScripts/commit/35f97d89cc6304a67f7be49f14544cf91ae9d9c2) - fix(useless): 🐛 remove correct this useless self-assignment.
 <!-- END gadpp -->
 
 ---
