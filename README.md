@@ -85,12 +85,12 @@ Hi there<!--小手来源https://github.com/mayhemantt/mayhemantt/blob/master/REA
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#100](https://github.com/ChinaGodMan/UserScripts/issues/100#issuecomment-2712902764) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
-2. 🗣 Commented on [#100](https://github.com/ChinaGodMan/UserScripts/issues/100#issuecomment-2710785917) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
-3. 🔒 Closed issue [#132](https://github.com/ChinaGodMan/UserScriptsHistory/issues/132) in [ChinaGodMan/UserScriptsHistory](https://github.com/ChinaGodMan/UserScriptsHistory)
-4. 🗣 Commented on [#97](https://github.com/ChinaGodMan/UserScripts/issues/97#issuecomment-2698860148) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
-5. 🔒 Closed issue [#97](https://github.com/ChinaGodMan/UserScripts/issues/97) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
-6. 🗣 Commented on [#372](https://github.com/maboloshi/github-chinese/issues/372#issuecomment-2693053283) in [maboloshi/github-chinese](https://github.com/maboloshi/github-chinese)
+1. ❗ Opened issue [#8332](https://github.com/refined-github/refined-github/issues/8332) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
+2. 🗣 Commented on [#100](https://github.com/ChinaGodMan/UserScripts/issues/100#issuecomment-2712902764) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
+3. 🗣 Commented on [#100](https://github.com/ChinaGodMan/UserScripts/issues/100#issuecomment-2710785917) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
+4. 🔒 Closed issue [#132](https://github.com/ChinaGodMan/UserScriptsHistory/issues/132) in [ChinaGodMan/UserScriptsHistory](https://github.com/ChinaGodMan/UserScriptsHistory)
+5. 🗣 Commented on [#97](https://github.com/ChinaGodMan/UserScripts/issues/97#issuecomment-2698860148) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
+6. 🔒 Closed issue [#97](https://github.com/ChinaGodMan/UserScripts/issues/97) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
 7. 🗣 Commented on [#372](https://github.com/maboloshi/github-chinese/issues/372#issuecomment-2693049706) in [maboloshi/github-chinese](https://github.com/maboloshi/github-chinese)
 8. ❗ Opened issue [#372](https://github.com/maboloshi/github-chinese/issues/372) in [maboloshi/github-chinese](https://github.com/maboloshi/github-chinese)
 9. 🔒 Closed issue [#94](https://github.com/ChinaGodMan/UserScripts/issues/94) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
