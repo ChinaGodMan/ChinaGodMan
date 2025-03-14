@@ -73,11 +73,11 @@ Hi there<!--小手来源https://github.com/mayhemantt/mayhemantt/blob/master/REA
  
 ### :zap:My Repositories recent commit Sat GitHub:
 <!-- START gadpp -->
+- ChinaGodMan/gitlens-zh-CN: [refs/heads/main@248241d27e5ee76ed43927f22fb5e5fcc0b81ca7](https://github.com/ChinaGodMan/gitlens-zh-CN/commit/248241d27e5ee76ed43927f22fb5e5fcc0b81ca7) - ci(release): 对资产标签进行发布
+- ChinaGodMan/UserScripts: [refs/heads/main@1f5cb36e04597c822fd344c18328bdb841b60d0f](https://github.com/ChinaGodMan/UserScripts/commit/1f5cb36e04597c822fd344c18328bdb841b60d0f) - chore: 🔨 去除多余的`print`，无需输出控制台.
 - ChinaGodMan/UserScripts: [refs/heads/main@a1d70acd9e942116d975742a9b35e93e63d6b76e](https://github.com/ChinaGodMan/UserScripts/commit/a1d70acd9e942116d975742a9b35e93e63d6b76e) - style: 💄 修改链接格式
 - ChinaGodMan/git-pwsh: [refs/heads/main@f54863bdb9d553575a890a85cc08497fc250b0bd](https://github.com/ChinaGodMan/git-pwsh/commit/f54863bdb9d553575a890a85cc08497fc250b0bd) - docs:  :octocat: 更新文件
 - ChinaGodMan/UserScripts: [refs/heads/main@24deca34c07fea0534ec391bc2a8767260e144b0](https://github.com/ChinaGodMan/UserScripts/commit/24deca34c07fea0534ec391bc2a8767260e144b0) - refactor: ♻️ 将变量`enable_packaging`从全局改为使用参数传递到`downloader`
-- ChinaGodMan/UserScripts: [refs/heads/main@55dbfbf98f2b673edb181fd09c9c66d81152a512](https://github.com/ChinaGodMan/UserScripts/commit/55dbfbf98f2b673edb181fd09c9c66d81152a512) - docs(ci): 📝 谷歌翻译[`README{_xx}.md`]
-- ChinaGodMan/github-updater: [refs/heads/main@c9c71ebcd9a002c8ab1042f7eac5e167de409c66](https://github.com/ChinaGodMan/github-updater/commit/c9c71ebcd9a002c8ab1042f7eac5e167de409c66) - fix: 🐛 `lasted_version`→`latest_version`
 <!-- END gadpp -->
 
 ---
