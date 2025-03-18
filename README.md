@@ -73,11 +73,11 @@ Hi there<!--小手来源https://github.com/mayhemantt/mayhemantt/blob/master/REA
  
 ### :zap:My Repositories recent commit Sat GitHub:
 <!-- START gadpp -->
+- ChinaGodMan/git-pwsh: [refs/heads/main@f54863bdb9d553575a890a85cc08497fc250b0bd](https://github.com/ChinaGodMan/git-pwsh/commit/f54863bdb9d553575a890a85cc08497fc250b0bd) - docs:  :octocat: 更新文件
 - ChinaGodMan/UserScripts: [refs/heads/main@28e17be8110c8cdb3d1b719cb2d2858693e930e4](https://github.com/ChinaGodMan/UserScripts/commit/28e17be8110c8cdb3d1b719cb2d2858693e930e4) - docs(fix): 📝 修复排版错误
 - ChinaGodMan/github-updater: [refs/heads/main@c9c71ebcd9a002c8ab1042f7eac5e167de409c66](https://github.com/ChinaGodMan/github-updater/commit/c9c71ebcd9a002c8ab1042f7eac5e167de409c66) - fix: 🐛 `lasted_version`→`latest_version`
 - ChinaGodMan/UserScripts: [refs/heads/main@a07ad3b74a31f6fc35fb342f71efbbe60975e94a](https://github.com/ChinaGodMan/UserScripts/commit/a07ad3b74a31f6fc35fb342f71efbbe60975e94a) - docs(ci): 📝 谷歌翻译[`README{_xx}.md`]
 - ChinaGodMan/gitlens-zh-CN: [refs/heads/main@248241d27e5ee76ed43927f22fb5e5fcc0b81ca7](https://github.com/ChinaGodMan/gitlens-zh-CN/commit/248241d27e5ee76ed43927f22fb5e5fcc0b81ca7) - ci(release): 对资产标签进行发布
-- ChinaGodMan/UserScripts: [refs/heads/main@59c09cbd0ecf38ed3e8f1e2cabaf7769345ac78f](https://github.com/ChinaGodMan/UserScripts/commit/59c09cbd0ecf38ed3e8f1e2cabaf7769345ac78f) - docs(ci): 📝 谷歌翻译[`README{_xx}.md`]
 <!-- END gadpp -->
 
 ---
