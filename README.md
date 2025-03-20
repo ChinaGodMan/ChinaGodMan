@@ -78,11 +78,11 @@ Hi there<!--小手来源https://github.com/mayhemantt/mayhemantt/blob/master/REA
  
 ### :zap:My Repositories recent commit Sat GitHub:
 <!-- START gadpp -->
+- ChinaGodMan/github-updater: [refs/heads/main@c9c71ebcd9a002c8ab1042f7eac5e167de409c66](https://github.com/ChinaGodMan/github-updater/commit/c9c71ebcd9a002c8ab1042f7eac5e167de409c66) - fix: 🐛 `lasted_version`→`latest_version`
 - ChinaGodMan/UserScripts: [refs/heads/main@f9f1e2ae4f52976765dd1aad2fae0bdda247e25a](https://github.com/ChinaGodMan/UserScripts/commit/f9f1e2ae4f52976765dd1aad2fae0bdda247e25a) - 本地化信息被错误放置
 - ChinaGodMan/gitlens-zh-CN: [refs/heads/main@248241d27e5ee76ed43927f22fb5e5fcc0b81ca7](https://github.com/ChinaGodMan/gitlens-zh-CN/commit/248241d27e5ee76ed43927f22fb5e5fcc0b81ca7) - ci(release): 对资产标签进行发布
 - ChinaGodMan/UserScripts: [refs/heads/main@7601843d76e5c0a076f430e0a13165257361d4fa](https://github.com/ChinaGodMan/UserScripts/commit/7601843d76e5c0a076f430e0a13165257361d4fa) - docs(ci): 📝 谷歌翻译[`README{_xx}.md`]
 - ChinaGodMan/git-pwsh: [refs/heads/main@f54863bdb9d553575a890a85cc08497fc250b0bd](https://github.com/ChinaGodMan/git-pwsh/commit/f54863bdb9d553575a890a85cc08497fc250b0bd) - docs:  :octocat: 更新文件
-- ChinaGodMan/UserScripts: [refs/heads/main@28e17be8110c8cdb3d1b719cb2d2858693e930e4](https://github.com/ChinaGodMan/UserScripts/commit/28e17be8110c8cdb3d1b719cb2d2858693e930e4) - docs(fix): 📝 修复排版错误
 <!-- END gadpp -->
 
 ---
