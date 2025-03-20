@@ -90,16 +90,16 @@ Hi there<!--小手来源https://github.com/mayhemantt/mayhemantt/blob/master/REA
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/lmmtrr/python-paste-pro/issues/1) in [lmmtrr/python-paste-pro](https://github.com/lmmtrr/python-paste-pro)
-2. ❗ Opened issue [#153](https://github.com/imlinhanchao/vsc-markdown-image/issues/153) in [imlinhanchao/vsc-markdown-image](https://github.com/imlinhanchao/vsc-markdown-image)
-3. 🗣 Commented on [#102](https://github.com/ChinaGodMan/UserScripts/issues/102#issuecomment-2723300775) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
-4. 🗣 Commented on [#100](https://github.com/ChinaGodMan/UserScripts/issues/100#issuecomment-2719253127) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
-5. 🗣 Commented on [#100](https://github.com/ChinaGodMan/UserScripts/issues/100#issuecomment-2715265208) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
-6. ❗ Opened issue [#8332](https://github.com/refined-github/refined-github/issues/8332) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
-7. 🗣 Commented on [#100](https://github.com/ChinaGodMan/UserScripts/issues/100#issuecomment-2712902764) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
-8. 🗣 Commented on [#100](https://github.com/ChinaGodMan/UserScripts/issues/100#issuecomment-2710785917) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
-9. 🔒 Closed issue [#132](https://github.com/ChinaGodMan/UserScriptsHistory/issues/132) in [ChinaGodMan/UserScriptsHistory](https://github.com/ChinaGodMan/UserScriptsHistory)
-10. 🔒 Closed issue [#97](https://github.com/ChinaGodMan/UserScripts/issues/97) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
+1. 🗣 Commented on [#372](https://github.com/maboloshi/github-chinese/issues/372#issuecomment-2738007248) in [maboloshi/github-chinese](https://github.com/maboloshi/github-chinese)
+2. ❗ Opened issue [#1](https://github.com/lmmtrr/python-paste-pro/issues/1) in [lmmtrr/python-paste-pro](https://github.com/lmmtrr/python-paste-pro)
+3. ❗ Opened issue [#153](https://github.com/imlinhanchao/vsc-markdown-image/issues/153) in [imlinhanchao/vsc-markdown-image](https://github.com/imlinhanchao/vsc-markdown-image)
+4. 🗣 Commented on [#102](https://github.com/ChinaGodMan/UserScripts/issues/102#issuecomment-2723300775) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
+5. 🗣 Commented on [#100](https://github.com/ChinaGodMan/UserScripts/issues/100#issuecomment-2719253127) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
+6. 🗣 Commented on [#100](https://github.com/ChinaGodMan/UserScripts/issues/100#issuecomment-2715265208) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
+7. ❗ Opened issue [#8332](https://github.com/refined-github/refined-github/issues/8332) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
+8. 🗣 Commented on [#100](https://github.com/ChinaGodMan/UserScripts/issues/100#issuecomment-2712902764) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
+9. 🗣 Commented on [#100](https://github.com/ChinaGodMan/UserScripts/issues/100#issuecomment-2710785917) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
+10. 🔒 Closed issue [#132](https://github.com/ChinaGodMan/UserScriptsHistory/issues/132) in [ChinaGodMan/UserScriptsHistory](https://github.com/ChinaGodMan/UserScriptsHistory)
 <!--END_SECTION:activity-->
 
 ---
