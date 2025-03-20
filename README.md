@@ -90,16 +90,16 @@ Hi there<!--小手来源https://github.com/mayhemantt/mayhemantt/blob/master/REA
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/lmmtrr/python-paste-pro/issues/1#issuecomment-2738374045) in [lmmtrr/python-paste-pro](https://github.com/lmmtrr/python-paste-pro)
-2. 🔒 Closed issue [#1](https://github.com/lmmtrr/python-paste-pro/issues/1) in [lmmtrr/python-paste-pro](https://github.com/lmmtrr/python-paste-pro)
-3. 🗣 Commented on [#372](https://github.com/maboloshi/github-chinese/issues/372#issuecomment-2738007248) in [maboloshi/github-chinese](https://github.com/maboloshi/github-chinese)
-4. ❗ Opened issue [#1](https://github.com/lmmtrr/python-paste-pro/issues/1) in [lmmtrr/python-paste-pro](https://github.com/lmmtrr/python-paste-pro)
-5. ❗ Opened issue [#153](https://github.com/imlinhanchao/vsc-markdown-image/issues/153) in [imlinhanchao/vsc-markdown-image](https://github.com/imlinhanchao/vsc-markdown-image)
-6. 🗣 Commented on [#102](https://github.com/ChinaGodMan/UserScripts/issues/102#issuecomment-2723300775) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
-7. 🗣 Commented on [#100](https://github.com/ChinaGodMan/UserScripts/issues/100#issuecomment-2719253127) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
-8. 🗣 Commented on [#100](https://github.com/ChinaGodMan/UserScripts/issues/100#issuecomment-2715265208) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
-9. ❗ Opened issue [#8332](https://github.com/refined-github/refined-github/issues/8332) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
-10. 🗣 Commented on [#100](https://github.com/ChinaGodMan/UserScripts/issues/100#issuecomment-2712902764) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
+1. 🗣 Commented on [#74](https://github.com/adamlui/github-star-history/pull/74#issuecomment-2738513741) in [adamlui/github-star-history](https://github.com/adamlui/github-star-history)
+2. 🗣 Commented on [#74](https://github.com/adamlui/github-star-history/pull/74#issuecomment-2738513595) in [adamlui/github-star-history](https://github.com/adamlui/github-star-history)
+3. 🗣 Commented on [#74](https://github.com/adamlui/github-star-history/pull/74#issuecomment-2738513591) in [adamlui/github-star-history](https://github.com/adamlui/github-star-history)
+4. 🗣 Commented on [#74](https://github.com/adamlui/github-star-history/pull/74#issuecomment-2738513581) in [adamlui/github-star-history](https://github.com/adamlui/github-star-history)
+5. 🗣 Commented on [#74](https://github.com/adamlui/github-star-history/pull/74#issuecomment-2738513574) in [adamlui/github-star-history](https://github.com/adamlui/github-star-history)
+6. 🗣 Commented on [#74](https://github.com/adamlui/github-star-history/pull/74#issuecomment-2738513586) in [adamlui/github-star-history](https://github.com/adamlui/github-star-history)
+7. 🗣 Commented on [#74](https://github.com/adamlui/github-star-history/pull/74#issuecomment-2738513453) in [adamlui/github-star-history](https://github.com/adamlui/github-star-history)
+8. 🗣 Commented on [#74](https://github.com/adamlui/github-star-history/pull/74#issuecomment-2738513443) in [adamlui/github-star-history](https://github.com/adamlui/github-star-history)
+9. 🗣 Commented on [#74](https://github.com/adamlui/github-star-history/pull/74#issuecomment-2738513450) in [adamlui/github-star-history](https://github.com/adamlui/github-star-history)
+10. 🗣 Commented on [#74](https://github.com/adamlui/github-star-history/pull/74#issuecomment-2738513436) in [adamlui/github-star-history](https://github.com/adamlui/github-star-history)
 <!--END_SECTION:activity-->
 
 ---
