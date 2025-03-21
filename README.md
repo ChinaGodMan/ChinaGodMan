@@ -78,11 +78,11 @@ Hi there<!--小手来源https://github.com/mayhemantt/mayhemantt/blob/master/REA
  
 ### :zap:My Repositories recent commit Sat GitHub:
 <!-- START gadpp -->
+- ChinaGodMan/gitlens-zh-CN: [refs/heads/main@248241d27e5ee76ed43927f22fb5e5fcc0b81ca7](https://github.com/ChinaGodMan/gitlens-zh-CN/commit/248241d27e5ee76ed43927f22fb5e5fcc0b81ca7) - ci(release): 对资产标签进行发布
+- ChinaGodMan/UserScripts: [refs/heads/main@5980291bbffeec75bd01d720b44b372484e1a298](https://github.com/ChinaGodMan/UserScripts/commit/5980291bbffeec75bd01d720b44b372484e1a298) - docs(ci): 📝 谷歌翻译[`README{_xx}.md`]
 - ChinaGodMan/UserScripts: [refs/heads/main@378fe922833fc1db23e9eded59d6f7cd5d4bebb0](https://github.com/ChinaGodMan/UserScripts/commit/378fe922833fc1db23e9eded59d6f7cd5d4bebb0) - docs(ci): 📝 谷歌翻译[`README.md`]→[`{vi,ko,en,jp,zh-TW}/README.md`]
 - ChinaGodMan/git-pwsh: [refs/heads/main@f54863bdb9d553575a890a85cc08497fc250b0bd](https://github.com/ChinaGodMan/git-pwsh/commit/f54863bdb9d553575a890a85cc08497fc250b0bd) - docs:  :octocat: 更新文件
 - ChinaGodMan/UserScripts: [refs/heads/main@a7ad82ed4bd6cad6e9b44f80b2569d55bc59e02c](https://github.com/ChinaGodMan/UserScripts/commit/a7ad82ed4bd6cad6e9b44f80b2569d55bc59e02c) - fix(不规则空白): 🐛 删除`丹麦语`描述中的不规则空白，并排序`UserScript`元数据块
-- ChinaGodMan/github-updater: [refs/heads/main@c9c71ebcd9a002c8ab1042f7eac5e167de409c66](https://github.com/ChinaGodMan/github-updater/commit/c9c71ebcd9a002c8ab1042f7eac5e167de409c66) - fix: 🐛 `lasted_version`→`latest_version`
-- ChinaGodMan/UserScripts: [refs/heads/main@f9f1e2ae4f52976765dd1aad2fae0bdda247e25a](https://github.com/ChinaGodMan/UserScripts/commit/f9f1e2ae4f52976765dd1aad2fae0bdda247e25a) - 本地化信息被错误放置
 <!-- END gadpp -->
 
 ---
