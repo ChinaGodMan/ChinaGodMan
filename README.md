@@ -79,11 +79,11 @@ Hi there<!--小手来源https://github.com/mayhemantt/mayhemantt/blob/master/REA
  
 ### :zap:My Repositories recent commit Sat GitHub:
 <!-- START gadpp -->
+- ChinaGodMan/UserScripts: [refs/heads/main@21ca0ecae6e44fb3785659ca0decf70bad1b5bd4](https://github.com/ChinaGodMan/UserScripts/commit/21ca0ecae6e44fb3785659ca0decf70bad1b5bd4) - feat(ci): ✨ 重新启用格式化工作流
 - ChinaGodMan/git-pwsh: [refs/heads/main@f54863bdb9d553575a890a85cc08497fc250b0bd](https://github.com/ChinaGodMan/git-pwsh/commit/f54863bdb9d553575a890a85cc08497fc250b0bd) - docs:  :octocat: 更新文件
 - ChinaGodMan/UserScripts: [refs/heads/main@2e9435e199c1c95f14f4aea0d7c4a719c7f0ffd0](https://github.com/ChinaGodMan/UserScripts/commit/2e9435e199c1c95f14f4aea0d7c4a719c7f0ffd0) - Merge pull request #104 from ChinaGodMan/google_translate
 - ChinaGodMan/github-updater: [refs/heads/main@c9c71ebcd9a002c8ab1042f7eac5e167de409c66](https://github.com/ChinaGodMan/github-updater/commit/c9c71ebcd9a002c8ab1042f7eac5e167de409c66) - fix: 🐛 `lasted_version`→`latest_version`
 - ChinaGodMan/gitlens-zh-CN: [refs/heads/main@248241d27e5ee76ed43927f22fb5e5fcc0b81ca7](https://github.com/ChinaGodMan/gitlens-zh-CN/commit/248241d27e5ee76ed43927f22fb5e5fcc0b81ca7) - ci(release): 对资产标签进行发布
-- ChinaGodMan/UserScripts: [refs/heads/main@63b65ca73fd62fe62c4f25545067bd032d0a672a](https://github.com/ChinaGodMan/UserScripts/commit/63b65ca73fd62fe62c4f25545067bd032d0a672a) - feat(推荐徽章): ✨ 增加推荐使用的`脚本管理器``浏览器`与跨平台支持
 <!-- END gadpp -->
 
 ---
