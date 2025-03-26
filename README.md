@@ -79,11 +79,11 @@ Hi there<!--小手来源https://github.com/mayhemantt/mayhemantt/blob/master/REA
  
 ### :zap:My Repositories recent commit Sat GitHub:
 <!-- START gadpp -->
+- ChinaGodMan/gitlens-zh-CN: [refs/heads/main@248241d27e5ee76ed43927f22fb5e5fcc0b81ca7](https://github.com/ChinaGodMan/gitlens-zh-CN/commit/248241d27e5ee76ed43927f22fb5e5fcc0b81ca7) - ci(release): 对资产标签进行发布
+- ChinaGodMan/UserScripts: [refs/heads/main@feb3fa003f2501f9d6271a58f69ee9133fd8967e](https://github.com/ChinaGodMan/UserScripts/commit/feb3fa003f2501f9d6271a58f69ee9133fd8967e) - revert: ⏪️ 跳
 - ChinaGodMan/UserScripts: [refs/heads/main@9f5877b77be129673a76d7a5d33bb8ebdd34bc34](https://github.com/ChinaGodMan/UserScripts/commit/9f5877b77be129673a76d7a5d33bb8ebdd34bc34) - docs(ci): 📝 谷歌翻译[`README_[lang].md`]
 - ChinaGodMan/UserScripts: [refs/heads/main@6af25b6bcb081476e1bfd0a02a3dbc2af2888531](https://github.com/ChinaGodMan/UserScripts/commit/6af25b6bcb081476e1bfd0a02a3dbc2af2888531) - Merge pull request #107 from ChinaGodMan/readme_locale
 - ChinaGodMan/git-pwsh: [refs/heads/main@f54863bdb9d553575a890a85cc08497fc250b0bd](https://github.com/ChinaGodMan/git-pwsh/commit/f54863bdb9d553575a890a85cc08497fc250b0bd) - docs:  :octocat: 更新文件
-- ChinaGodMan/UserScripts: [refs/heads/main@044303d411b40444106551f2a76af108d1ec2ae8](https://github.com/ChinaGodMan/UserScripts/commit/044303d411b40444106551f2a76af108d1ec2ae8) - chore(deps-dev): bump eslint from 9.22.0 to 9.23.0 (#106)
-- ChinaGodMan/github-updater: [refs/heads/main@c9c71ebcd9a002c8ab1042f7eac5e167de409c66](https://github.com/ChinaGodMan/github-updater/commit/c9c71ebcd9a002c8ab1042f7eac5e167de409c66) - fix: 🐛 `lasted_version`→`latest_version`
 <!-- END gadpp -->
 
 ---
