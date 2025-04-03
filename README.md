@@ -91,14 +91,14 @@ Hi there<!--小手来源https://github.com/mayhemantt/mayhemantt/blob/master/REA
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1](https://github.com/ChinaGodMan/github-updater/releases/tag/v1.0.2) in [ChinaGodMan/github-updater](https://github.com/ChinaGodMan/github-updater)
-2. 🎉 Merged PR [#107](https://github.com/ChinaGodMan/UserScripts/pull/107) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
-3. 💪 Opened PR [#107](https://github.com/ChinaGodMan/UserScripts/pull/107) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
-4. 🎉 Merged PR [#105](https://github.com/ChinaGodMan/UserScripts/pull/105) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
-5. 💪 Opened PR [#105](https://github.com/ChinaGodMan/UserScripts/pull/105) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
-6. 🎉 Merged PR [#104](https://github.com/ChinaGodMan/UserScripts/pull/104) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
-7. 💪 Opened PR [#104](https://github.com/ChinaGodMan/UserScripts/pull/104) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
-8. 🗣 Commented on [#74](https://github.com/adamlui/github-star-history/pull/74#issuecomment-2738513741) in [adamlui/github-star-history](https://github.com/adamlui/github-star-history)
+1. 🔒 Closed issue [#73](https://github.com/VirtualHotBar/HotPEToolBox/issues/73) in [VirtualHotBar/HotPEToolBox](https://github.com/VirtualHotBar/HotPEToolBox)
+2. 🚀 Published release [1](https://github.com/ChinaGodMan/github-updater/releases/tag/v1.0.2) in [ChinaGodMan/github-updater](https://github.com/ChinaGodMan/github-updater)
+3. 🎉 Merged PR [#107](https://github.com/ChinaGodMan/UserScripts/pull/107) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
+4. 💪 Opened PR [#107](https://github.com/ChinaGodMan/UserScripts/pull/107) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
+5. 🎉 Merged PR [#105](https://github.com/ChinaGodMan/UserScripts/pull/105) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
+6. 💪 Opened PR [#105](https://github.com/ChinaGodMan/UserScripts/pull/105) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
+7. 🎉 Merged PR [#104](https://github.com/ChinaGodMan/UserScripts/pull/104) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
+8. 💪 Opened PR [#104](https://github.com/ChinaGodMan/UserScripts/pull/104) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
 9. 🗣 Commented on [#74](https://github.com/adamlui/github-star-history/pull/74#issuecomment-2738513595) in [adamlui/github-star-history](https://github.com/adamlui/github-star-history)
 10. 🗣 Commented on [#74](https://github.com/adamlui/github-star-history/pull/74#issuecomment-2738513591) in [adamlui/github-star-history](https://github.com/adamlui/github-star-history)
 <!--END_SECTION:activity-->
