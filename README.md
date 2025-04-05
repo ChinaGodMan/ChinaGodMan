@@ -206,6 +206,13 @@ Shell                    1 repo              █░░░░░░░░░░�
       <br />
       <a href="https://github.com/Silicon7921">CorePomelo</a>
     </td>
+    <td align="center">
+      <a href="https://github.com/RusianHu">
+        <img src="https://avatars2.githubusercontent.com/u/42626387" width="100px;" alt="RusianHu"/>
+      </a>
+      <br />
+      <a href="https://github.com/RusianHu">Rusian Huu</a>
+    </td>
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
