@@ -1,7 +1,8 @@
 
 <div align="center">
     <img src="image/guoqi1024.png" style="width: 180px; height: 120px;" />
-    <img src="image/guohui1024.png" style="width: 135px; height: 135px;" /><br>
+    <img src="image/guohui1024.png" style="width: 135px; height: 135px;" />
+    <img src="image/dq.png" style="width: 180px; height: 120px;" /><br>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F71813&width=700&height=35&lines=%F0%9F%87%A8%F0%9F%87%B3Long+live+the+great+Communist+Party+of+China!%EF%BC%81%F0%9F%87%A8%F0%9F%87%B3"/>
 </div>
 
