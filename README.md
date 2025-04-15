@@ -80,11 +80,11 @@ Hi there<!--小手来源https://github.com/mayhemantt/mayhemantt/blob/master/REA
  
 ### :zap:My Repositories recent commit Sat GitHub:
 <!-- START gadpp -->
+- ChinaGodMan/UserScripts: [refs/heads/main@2c1f12a7c8554520c242230d58d76dc3693d4df3](https://github.com/ChinaGodMan/UserScripts/commit/2c1f12a7c8554520c242230d58d76dc3693d4df3) - docs(ci): 📝 谷歌翻译[`README_[lang].md`]
 - ChinaGodMan/gitlens-zh-CN: [refs/heads/main@248241d27e5ee76ed43927f22fb5e5fcc0b81ca7](https://github.com/ChinaGodMan/gitlens-zh-CN/commit/248241d27e5ee76ed43927f22fb5e5fcc0b81ca7) - ci(release): 对资产标签进行发布
 - ChinaGodMan/UserScripts: [refs/heads/main@3b98388ea89fa62542b5695badd09897a3842bed](https://github.com/ChinaGodMan/UserScripts/commit/3b98388ea89fa62542b5695badd09897a3842bed) - docs(ci): 📝 谷歌翻译[`README_[lang].md`]
 - ChinaGodMan/github-updater: [refs/heads/main@3ee9452e2dac8f4eeca5e676d3a0db1a186ce6ee](https://github.com/ChinaGodMan/github-updater/commit/3ee9452e2dac8f4eeca5e676d3a0db1a186ce6ee) - feat: 🎸 添加 GitHub Actions 工作流自动生成和发布变更日志
 - ChinaGodMan/UserScripts: [refs/heads/main@04b842c4aea5dd7e8579f3d490d4e325f6d0340d](https://github.com/ChinaGodMan/UserScripts/commit/04b842c4aea5dd7e8579f3d490d4e325f6d0340d) - chore(deps-dev): bump eslint from 9.23.0 to 9.24.0 (#109)
-- ChinaGodMan/git-pwsh: [refs/heads/main@f54863bdb9d553575a890a85cc08497fc250b0bd](https://github.com/ChinaGodMan/git-pwsh/commit/f54863bdb9d553575a890a85cc08497fc250b0bd) - docs:  :octocat: 更新文件
 <!-- END gadpp -->
 
 ---
