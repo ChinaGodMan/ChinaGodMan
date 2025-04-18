@@ -194,6 +194,13 @@ Shell                    1 repo              █░░░░░░░░░░�
       <a href="https://github.com/NekoMirra">NekoMirra</a>
     </td>
     <td align="center">
+      <a href="https://github.com/rong-xiaoli">
+        <img src="https://avatars2.githubusercontent.com/u/58361774" width="100px;" alt="rong-xiaoli"/>
+      </a>
+      <br />
+      <a href="https://github.com/rong-xiaoli">容小狸</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Ieooo">
         <img src="https://avatars2.githubusercontent.com/u/47620466" width="100px;" alt="Ieooo"/>
       </a>
