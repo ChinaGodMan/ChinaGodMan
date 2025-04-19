@@ -80,11 +80,11 @@ Hi there<!--小手来源https://github.com/mayhemantt/mayhemantt/blob/master/REA
  
 ### :zap:My Repositories recent commit Sat GitHub:
 <!-- START gadpp -->
+- ChinaGodMan/github-updater: [refs/heads/main@3ee9452e2dac8f4eeca5e676d3a0db1a186ce6ee](https://github.com/ChinaGodMan/github-updater/commit/3ee9452e2dac8f4eeca5e676d3a0db1a186ce6ee) - feat: 🎸 添加 GitHub Actions 工作流自动生成和发布变更日志
+- ChinaGodMan/UserScripts: [refs/heads/main@178a8e0138a2d0c3dd1b7c219b8cb267399eb927](https://github.com/ChinaGodMan/UserScripts/commit/178a8e0138a2d0c3dd1b7c219b8cb267399eb927) - feat(脚本预览): ✨ 没有截图的脚本,只显示介绍就行了
 - ChinaGodMan/UserScripts: [refs/heads/main@1fea33d3643df55e432076b30417a943eb55f76b](https://github.com/ChinaGodMan/UserScripts/commit/1fea33d3643df55e432076b30417a943eb55f76b) - docs(图片源): 📝 切换到`UserScriptsHistory`仓库
 - ChinaGodMan/UserScripts: [refs/heads/main@a4206bfef837f130fd952c800f047674afdddd0e](https://github.com/ChinaGodMan/UserScripts/commit/a4206bfef837f130fd952c800f047674afdddd0e) - chore(deps-dev): bump @eslint/json from 0.11.0 to 0.12.0 (#114)
 - ChinaGodMan/git-pwsh: [refs/heads/main@f54863bdb9d553575a890a85cc08497fc250b0bd](https://github.com/ChinaGodMan/git-pwsh/commit/f54863bdb9d553575a890a85cc08497fc250b0bd) - docs:  :octocat: 更新文件
-- ChinaGodMan/UserScripts: [refs/heads/main@d5c42d5ada2eff9a3efcfbe14687ebd96728ef30](https://github.com/ChinaGodMan/UserScripts/commit/d5c42d5ada2eff9a3efcfbe14687ebd96728ef30) - docs(ci): 📝 谷歌翻译[`README_[lang].md`]
-- ChinaGodMan/gitlens-zh-CN: [refs/heads/main@248241d27e5ee76ed43927f22fb5e5fcc0b81ca7](https://github.com/ChinaGodMan/gitlens-zh-CN/commit/248241d27e5ee76ed43927f22fb5e5fcc0b81ca7) - ci(release): 对资产标签进行发布
 <!-- END gadpp -->
 
 ---
