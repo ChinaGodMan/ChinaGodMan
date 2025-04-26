@@ -80,11 +80,11 @@ Hi there<!--小手来源https://github.com/mayhemantt/mayhemantt/blob/master/REA
  
 ### :zap:My Repositories recent commit Sat GitHub:
 <!-- START gadpp -->
+- ChinaGodMan/UserScripts: [refs/heads/main@52779b286793a6a14beca9f0a007e6b2100f3a3f](https://github.com/ChinaGodMan/UserScripts/commit/52779b286793a6a14beca9f0a007e6b2100f3a3f) - feat(i18n): ✨ 同步各个语言的`README.md`时，脚本名称和介绍从[`JS 文件`]获取
 - ChinaGodMan/UserScripts: [refs/heads/main@96ed3203160ef4928132c2217e3195bb53a2fbf4](https://github.com/ChinaGodMan/UserScripts/commit/96ed3203160ef4928132c2217e3195bb53a2fbf4) - docs(ci): 📝 谷歌翻译[`README_[lang].md`]
 - ChinaGodMan/git-pwsh: [refs/heads/main@f54863bdb9d553575a890a85cc08497fc250b0bd](https://github.com/ChinaGodMan/git-pwsh/commit/f54863bdb9d553575a890a85cc08497fc250b0bd) - docs:  :octocat: 更新文件
 - ChinaGodMan/gitlens-zh-CN: [refs/heads/main@248241d27e5ee76ed43927f22fb5e5fcc0b81ca7](https://github.com/ChinaGodMan/gitlens-zh-CN/commit/248241d27e5ee76ed43927f22fb5e5fcc0b81ca7) - ci(release): 对资产标签进行发布
 - ChinaGodMan/UserScripts: [refs/heads/main@3aa8647e18db7351f515af1c1be9f9ae13b8efc9](https://github.com/ChinaGodMan/UserScripts/commit/3aa8647e18db7351f515af1c1be9f9ae13b8efc9) - ci: 🎡  :trollface: (修复)推送失败时使用`rebase`重试一次（百分之一概率`push`会产生冲突）
-- ChinaGodMan/github-updater: [refs/heads/main@3ee9452e2dac8f4eeca5e676d3a0db1a186ce6ee](https://github.com/ChinaGodMan/github-updater/commit/3ee9452e2dac8f4eeca5e676d3a0db1a186ce6ee) - feat: 🎸 添加 GitHub Actions 工作流自动生成和发布变更日志
 <!-- END gadpp -->
 
 ---
