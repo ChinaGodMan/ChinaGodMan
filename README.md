@@ -80,11 +80,11 @@ Hi there<!--小手来源https://github.com/mayhemantt/mayhemantt/blob/master/REA
  
 ### :zap:My Repositories recent commit Sat GitHub:
 <!-- START gadpp -->
+- ChinaGodMan/gitlens-zh-CN: [refs/heads/main@248241d27e5ee76ed43927f22fb5e5fcc0b81ca7](https://github.com/ChinaGodMan/gitlens-zh-CN/commit/248241d27e5ee76ed43927f22fb5e5fcc0b81ca7) - ci(release): 对资产标签进行发布
 - ChinaGodMan/github-updater: [refs/heads/main@3ee9452e2dac8f4eeca5e676d3a0db1a186ce6ee](https://github.com/ChinaGodMan/github-updater/commit/3ee9452e2dac8f4eeca5e676d3a0db1a186ce6ee) - feat: 🎸 添加 GitHub Actions 工作流自动生成和发布变更日志
 - ChinaGodMan/UserScripts: [refs/heads/main@65ddeb7f85d20c09a10f27fb5a637a926d5a4666](https://github.com/ChinaGodMan/UserScripts/commit/65ddeb7f85d20c09a10f27fb5a637a926d5a4666) - fix(尾空): 🐛 删除每行的尾空格
 - ChinaGodMan/UserScripts: [refs/heads/main@d30284b48e8d653d12e35c818ce41bf4804bd39f](https://github.com/ChinaGodMan/UserScripts/commit/d30284b48e8d653d12e35c818ce41bf4804bd39f) - feat(i18n): ✨ 增加每个脚本介绍的区域化(方便以后区域化脚本)
 - ChinaGodMan/UserScripts: [refs/heads/main@d3a54a04cd449a137b9d885d60d049cb4e2853f6](https://github.com/ChinaGodMan/UserScripts/commit/d3a54a04cd449a137b9d885d60d049cb4e2853f6) - ci(github): 🎡 推送用户改为`ChinaGodBot`
-- ChinaGodMan/git-pwsh: [refs/heads/main@f54863bdb9d553575a890a85cc08497fc250b0bd](https://github.com/ChinaGodMan/git-pwsh/commit/f54863bdb9d553575a890a85cc08497fc250b0bd) - docs:  :octocat: 更新文件
 <!-- END gadpp -->
 
 ---
