@@ -80,11 +80,11 @@ Hi there<!--小手来源https://github.com/mayhemantt/mayhemantt/blob/master/REA
  
 ### :zap:My Repositories recent commit Sat GitHub:
 <!-- START gadpp -->
+- ChinaGodMan/github-updater: [refs/heads/main@3ee9452e2dac8f4eeca5e676d3a0db1a186ce6ee](https://github.com/ChinaGodMan/github-updater/commit/3ee9452e2dac8f4eeca5e676d3a0db1a186ce6ee) - feat: 🎸 添加 GitHub Actions 工作流自动生成和发布变更日志
+- ChinaGodMan/UserScripts: [refs/heads/main@c751e4b73eccbf89afdfad68f5bb4f20269b6242](https://github.com/ChinaGodMan/UserScripts/commit/c751e4b73eccbf89afdfad68f5bb4f20269b6242) - ci: 🎡 删除无用定义
 - ChinaGodMan/UserScripts: [refs/heads/main@a5d9b48cfae3d9a652a2e3d090eaa3bc6bd4536c](https://github.com/ChinaGodMan/UserScripts/commit/a5d9b48cfae3d9a652a2e3d090eaa3bc6bd4536c) - feat(下载历史): ✨ 导出下载历史为 `MarkDown`
 - ChinaGodMan/UserScripts: [refs/heads/main@648ec88db1243337c1f357b6a9b72f87fe0256cd](https://github.com/ChinaGodMan/UserScripts/commit/648ec88db1243337c1f357b6a9b72f87fe0256cd) - fix(api): 🐛 修复`Api`在失效后后无法正常下载媒体的问题
 - ChinaGodMan/UserScripts: [refs/heads/main@eed766942555ee4d1ec420b4fe02093b7a49e813](https://github.com/ChinaGodMan/UserScripts/commit/eed766942555ee4d1ec420b4fe02093b7a49e813) - docs(ci): 📝 谷歌翻译[`README_[lang].md`]
-- ChinaGodMan/git-pwsh: [refs/heads/main@f54863bdb9d553575a890a85cc08497fc250b0bd](https://github.com/ChinaGodMan/git-pwsh/commit/f54863bdb9d553575a890a85cc08497fc250b0bd) - docs:  :octocat: 更新文件
-- ChinaGodMan/gitlens-zh-CN: [refs/heads/main@248241d27e5ee76ed43927f22fb5e5fcc0b81ca7](https://github.com/ChinaGodMan/gitlens-zh-CN/commit/248241d27e5ee76ed43927f22fb5e5fcc0b81ca7) - ci(release): 对资产标签进行发布
 <!-- END gadpp -->
 
 ---
