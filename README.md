@@ -80,11 +80,11 @@ Hi there<!--小手来源https://github.com/mayhemantt/mayhemantt/blob/master/REA
  
 ### :zap:My Repositories recent commit Sat GitHub:
 <!-- START gadpp -->
+- ChinaGodMan/gitlens-zh-CN: [refs/heads/main@248241d27e5ee76ed43927f22fb5e5fcc0b81ca7](https://github.com/ChinaGodMan/gitlens-zh-CN/commit/248241d27e5ee76ed43927f22fb5e5fcc0b81ca7) - ci(release): 对资产标签进行发布
 - ChinaGodMan/github-updater: [refs/heads/main@3ee9452e2dac8f4eeca5e676d3a0db1a186ce6ee](https://github.com/ChinaGodMan/github-updater/commit/3ee9452e2dac8f4eeca5e676d3a0db1a186ce6ee) - feat: 🎸 添加 GitHub Actions 工作流自动生成和发布变更日志
 - ChinaGodMan/UserScripts: [refs/heads/main@ce2f6058a4b2ea5254eaa0e1b56dfa99b5db00b9](https://github.com/ChinaGodMan/UserScripts/commit/ce2f6058a4b2ea5254eaa0e1b56dfa99b5db00b9) - feat(域名): 添加多个域名
 - ChinaGodMan/UserScripts: [refs/heads/main@70e3622625ce36cf54ff162d935a46bd8b077020](https://github.com/ChinaGodMan/UserScripts/commit/70e3622625ce36cf54ff162d935a46bd8b077020) - feat(默认文件): ✨ 如果脚本不进行区域化，导入中文`README.md`作为默认设置
 - ChinaGodMan/UserScripts: [refs/heads/main@7d19753e6ea439df47ef027fa7343814a153099d](https://github.com/ChinaGodMan/UserScripts/commit/7d19753e6ea439df47ef027fa7343814a153099d) - docs(ci): 📝 谷歌翻译[`README_[lang].md`]
-- ChinaGodMan/git-pwsh: [refs/heads/main@f54863bdb9d553575a890a85cc08497fc250b0bd](https://github.com/ChinaGodMan/git-pwsh/commit/f54863bdb9d553575a890a85cc08497fc250b0bd) - docs:  :octocat: 更新文件
 <!-- END gadpp -->
 
 ---
