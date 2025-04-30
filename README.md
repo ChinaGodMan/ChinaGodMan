@@ -80,11 +80,11 @@ Hi there<!--小手来源https://github.com/mayhemantt/mayhemantt/blob/master/REA
  
 ### :zap:My Repositories recent commit Sat GitHub:
 <!-- START gadpp -->
+- ChinaGodMan/UserScripts: [refs/heads/main@56bb5fc9e0859ebb3b4754a76770c1aebc7545b0](https://github.com/ChinaGodMan/UserScripts/commit/56bb5fc9e0859ebb3b4754a76770c1aebc7545b0) - build: 📦️ 调整目录结构,并将代码内模版字符串改为从文件读入
 - ChinaGodMan/git-pwsh: [refs/heads/main@f54863bdb9d553575a890a85cc08497fc250b0bd](https://github.com/ChinaGodMan/git-pwsh/commit/f54863bdb9d553575a890a85cc08497fc250b0bd) - docs:  :octocat: 更新文件
 - ChinaGodMan/gitlens-zh-CN: [refs/heads/main@248241d27e5ee76ed43927f22fb5e5fcc0b81ca7](https://github.com/ChinaGodMan/gitlens-zh-CN/commit/248241d27e5ee76ed43927f22fb5e5fcc0b81ca7) - ci(release): 对资产标签进行发布
 - ChinaGodMan/github-updater: [refs/heads/main@3ee9452e2dac8f4eeca5e676d3a0db1a186ce6ee](https://github.com/ChinaGodMan/github-updater/commit/3ee9452e2dac8f4eeca5e676d3a0db1a186ce6ee) - feat: 🎸 添加 GitHub Actions 工作流自动生成和发布变更日志
 - ChinaGodMan/UserScripts: [refs/heads/main@9b3a912aa65f1bb7ac09dcd04fc3cc40075cb611](https://github.com/ChinaGodMan/UserScripts/commit/9b3a912aa65f1bb7ac09dcd04fc3cc40075cb611) - build: 📦️ 调整目录结构
-- ChinaGodMan/UserScripts: [refs/heads/main@4c8bcaaf9b55c276cd9056d480a218613b08e78a](https://github.com/ChinaGodMan/UserScripts/commit/4c8bcaaf9b55c276cd9056d480a218613b08e78a) - feat: ✨ 操作`md`文件排除特殊文件
 <!-- END gadpp -->
 
 ---
