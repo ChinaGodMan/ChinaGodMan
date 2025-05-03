@@ -80,11 +80,11 @@ Hi there<!--小手来源https://github.com/mayhemantt/mayhemantt/blob/master/REA
  
 ### :zap:My Repositories recent commit Sat GitHub:
 <!-- START gadpp -->
+- ChinaGodMan/gitlens-zh-CN: [refs/heads/main@248241d27e5ee76ed43927f22fb5e5fcc0b81ca7](https://github.com/ChinaGodMan/gitlens-zh-CN/commit/248241d27e5ee76ed43927f22fb5e5fcc0b81ca7) - ci(release): 对资产标签进行发布
 - ChinaGodMan/github-updater: [refs/heads/main@3ee9452e2dac8f4eeca5e676d3a0db1a186ce6ee](https://github.com/ChinaGodMan/github-updater/commit/3ee9452e2dac8f4eeca5e676d3a0db1a186ce6ee) - feat: 🎸 添加 GitHub Actions 工作流自动生成和发布变更日志
 - ChinaGodMan/UserScripts: [refs/heads/main@17fa15216f53dc9e34aed99823430947e941991b](https://github.com/ChinaGodMan/UserScripts/commit/17fa15216f53dc9e34aed99823430947e941991b) - ci: 🎡 压缩`ChinaGodBot`提交次数
 - ChinaGodMan/UserScripts: [refs/heads/main@8629d464c05b5c4ecc0a02b584d585788baf1785](https://github.com/ChinaGodMan/UserScripts/commit/8629d464c05b5c4ecc0a02b584d585788baf1785) - ci(时区): 让`ChinaGodBot`的`git`提交记录时区和自己提交的保持一致性
 - ChinaGodMan/UserScripts: [refs/heads/main@b274bb81dae6a1509a6d7b2cef30462608bb6f1c](https://github.com/ChinaGodMan/UserScripts/commit/b274bb81dae6a1509a6d7b2cef30462608bb6f1c) - docs(ci): 📝 谷歌翻译[`README_[lang].md`]
-- ChinaGodMan/git-pwsh: [refs/heads/main@f54863bdb9d553575a890a85cc08497fc250b0bd](https://github.com/ChinaGodMan/git-pwsh/commit/f54863bdb9d553575a890a85cc08497fc250b0bd) - docs:  :octocat: 更新文件
 <!-- END gadpp -->
 
 ---
