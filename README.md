@@ -80,11 +80,11 @@ Hi there<!--小手来源https://github.com/mayhemantt/mayhemantt/blob/master/REA
  
 ### :zap:My Repositories recent commit Sat GitHub:
 <!-- START gadpp -->
+- ChinaGodMan/UserScripts: [refs/heads/main@471612acaa2af3101ce4c1088cf9adf112194a45](https://github.com/ChinaGodMan/UserScripts/commit/471612acaa2af3101ce4c1088cf9adf112194a45) - docs: 更改图标源
 - ChinaGodMan/gitlens-zh-CN: [refs/heads/main@248241d27e5ee76ed43927f22fb5e5fcc0b81ca7](https://github.com/ChinaGodMan/gitlens-zh-CN/commit/248241d27e5ee76ed43927f22fb5e5fcc0b81ca7) - ci(release): 对资产标签进行发布
 - ChinaGodMan/github-updater: [refs/heads/main@3ee9452e2dac8f4eeca5e676d3a0db1a186ce6ee](https://github.com/ChinaGodMan/github-updater/commit/3ee9452e2dac8f4eeca5e676d3a0db1a186ce6ee) - feat: 🎸 添加 GitHub Actions 工作流自动生成和发布变更日志
 - ChinaGodMan/UserScripts: [refs/heads/main@bab2d5c4ebde03a83153b486df381a7c1394daad](https://github.com/ChinaGodMan/UserScripts/commit/bab2d5c4ebde03a83153b486df381a7c1394daad) - docs(sync): 📝 同步[`[script]/README_[lang].md`] [`docs/[lang]/README.md`]
 - ChinaGodMan/UserScripts: [refs/heads/main@81650d9ed184cb973a4b0897fc1d5eb4a4777e7c](https://github.com/ChinaGodMan/UserScripts/commit/81650d9ed184cb973a4b0897fc1d5eb4a4777e7c) - docs(sync): 📝 同步[`[script]/README_[lang].md`] [`docs/[lang]/README.md`]
-- ChinaGodMan/git-pwsh: [refs/heads/main@f54863bdb9d553575a890a85cc08497fc250b0bd](https://github.com/ChinaGodMan/git-pwsh/commit/f54863bdb9d553575a890a85cc08497fc250b0bd) - docs:  :octocat: 更新文件
 <!-- END gadpp -->
 
 ---
