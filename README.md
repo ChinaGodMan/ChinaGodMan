@@ -236,6 +236,13 @@ Batchfile                2 repos             █░░░░░░░░░░�
     </td>
   </tr>
 </table>
+
+### This page status
+
+<a href="https://widgetbite.com" align="left">
+  <img alt="Visitor Stats" src="https://widgetbite.com/stats/yutkat"/>  
+</a>
+
 <!--END_SECTION:top-followers-->
 <!--https://github.com/mayhemantt/mayhemantt/blob/master/README.md-->
 <p align="center">
