@@ -80,11 +80,11 @@ Hi there<!--小手来源https://github.com/mayhemantt/mayhemantt/blob/master/REA
  
 ### :zap:My Repositories recent commit Sat GitHub:
 <!-- START gadpp -->
+- ChinaGodMan/UserScripts: [refs/heads/main@a09b68b34704019df8787f96e2072a3293d9c1a6](https://github.com/ChinaGodMan/UserScripts/commit/a09b68b34704019df8787f96e2072a3293d9c1a6) - chore: 🔨 不删除`markdown`行空白，防止使用空格换行时被删除
 - ChinaGodMan/github-updater: [refs/heads/main@3ee9452e2dac8f4eeca5e676d3a0db1a186ce6ee](https://github.com/ChinaGodMan/github-updater/commit/3ee9452e2dac8f4eeca5e676d3a0db1a186ce6ee) - feat: 🎸 添加 GitHub Actions 工作流自动生成和发布变更日志
 - ChinaGodMan/git-pwsh: [refs/heads/main@f54863bdb9d553575a890a85cc08497fc250b0bd](https://github.com/ChinaGodMan/git-pwsh/commit/f54863bdb9d553575a890a85cc08497fc250b0bd) - docs:  :octocat: 更新文件
 - ChinaGodMan/UserScripts: [refs/heads/main@ce2db538ffe1f8f67174984bcd25baea011fbf8f](https://github.com/ChinaGodMan/UserScripts/commit/ce2db538ffe1f8f67174984bcd25baea011fbf8f) - ci: TOKEN
 - ChinaGodMan/UserScripts: [refs/heads/main@f991f3211b305ff2aa4c107e19188b4cad7accd3](https://github.com/ChinaGodMan/UserScripts/commit/f991f3211b305ff2aa4c107e19188b4cad7accd3) - ci: 🎡 整理下文件
-- ChinaGodMan/gitlens-zh-CN: [refs/heads/main@248241d27e5ee76ed43927f22fb5e5fcc0b81ca7](https://github.com/ChinaGodMan/gitlens-zh-CN/commit/248241d27e5ee76ed43927f22fb5e5fcc0b81ca7) - ci(release): 对资产标签进行发布
 <!-- END gadpp -->
 
 ---
