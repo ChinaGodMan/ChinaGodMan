@@ -241,7 +241,7 @@ Batchfile                2 repos             █░░░░░░░░░░�
 ### This page status
 
 <a href="https://widgetbite.com" align="left">
-  <img alt="Visitor Stats" src="https://widgetbite.com/stats/yutkat"/>  
+  <img alt="Visitor Stats" src="https://widgetbite.com/stats/ChinaGodMan"/>  
 </a>
 
 <!--END_SECTION:top-followers-->
