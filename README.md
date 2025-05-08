@@ -107,6 +107,19 @@ Hi there<!--小手来源https://github.com/mayhemantt/mayhemantt/blob/master/REA
 ---
 <!--去年活动：https://github-readme-stats.vercel.app/api/wakatime?username=ChinaGodMan&layout=compact-->
 
+## 📈 My WakaTime Coding Activity
+<img
+  src="https://github.com/ChinaGodMan/ChinaGodMan/blob/main/images/stat.svg"
+  alt="Avinal WakaTime Activity"
+/>
+<details>
+<summary><h3>:zap: WakaTime All Activity</h3></summary>
+    <img
+  src="https://github-readme-stats.vercel.app/api/wakatime?username=ChinaGodMan&layout=compact"
+  alt="WakaTime All Activity"
+/>
+</details>
+
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
