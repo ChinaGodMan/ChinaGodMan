@@ -81,11 +81,11 @@ Hi there<!--小手来源https://github.com/mayhemantt/mayhemantt/blob/master/REA
  
 ### :zap:My Repositories recent commit Sat GitHub:
 <!-- START gadpp -->
+- ChinaGodMan/git-pwsh: [refs/heads/main@f54863bdb9d553575a890a85cc08497fc250b0bd](https://github.com/ChinaGodMan/git-pwsh/commit/f54863bdb9d553575a890a85cc08497fc250b0bd) - docs:  :octocat: 更新文件
 - ChinaGodMan/UserScripts: [refs/heads/main@bd61be2c9168e2d2af2a731ef9d94da2ca074bc2](https://github.com/ChinaGodMan/UserScripts/commit/bd61be2c9168e2d2af2a731ef9d94da2ca074bc2) - chore: 🔨 删除`dependencies`
 - ChinaGodMan/gitlens-zh-CN: [refs/heads/main@248241d27e5ee76ed43927f22fb5e5fcc0b81ca7](https://github.com/ChinaGodMan/gitlens-zh-CN/commit/248241d27e5ee76ed43927f22fb5e5fcc0b81ca7) - ci(release): 对资产标签进行发布
 - ChinaGodMan/UserScripts: [refs/heads/main@9a2cd491a5829916e54e960b7b01ef9269687171](https://github.com/ChinaGodMan/UserScripts/commit/9a2cd491a5829916e54e960b7b01ef9269687171) - docs(模板): 从 https://github.com/WhiteSevs/TamperMonkeyScript  复制模板
 - ChinaGodMan/UserScripts: [refs/heads/main@4aa743d15c2394400f2ddb156c79b49d60d9397e](https://github.com/ChinaGodMan/UserScripts/commit/4aa743d15c2394400f2ddb156c79b49d60d9397e) - Update 2_feature_request.yml
-- ChinaGodMan/github-updater: [refs/heads/main@3ee9452e2dac8f4eeca5e676d3a0db1a186ce6ee](https://github.com/ChinaGodMan/github-updater/commit/3ee9452e2dac8f4eeca5e676d3a0db1a186ce6ee) - feat: 🎸 添加 GitHub Actions 工作流自动生成和发布变更日志
 <!-- END gadpp -->
 
 ---
