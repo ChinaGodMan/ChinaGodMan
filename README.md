@@ -81,11 +81,11 @@ Hi there<!--小手来源https://github.com/mayhemantt/mayhemantt/blob/master/REA
  
 ### :zap:My Repositories recent commit Sat GitHub:
 <!-- START gadpp -->
+- ChinaGodMan/gitlens-zh-CN: [refs/heads/main@248241d27e5ee76ed43927f22fb5e5fcc0b81ca7](https://github.com/ChinaGodMan/gitlens-zh-CN/commit/248241d27e5ee76ed43927f22fb5e5fcc0b81ca7) - ci(release): 对资产标签进行发布
 - ChinaGodMan/UserScripts: [refs/heads/main@0e1f0e4def443b5b9e3e35b77cc6a3b46843de0b](https://github.com/ChinaGodMan/UserScripts/commit/0e1f0e4def443b5b9e3e35b77cc6a3b46843de0b) - docs: 在`更新记录`下方增加跳转到 GitHub 上查看`CHANGELOG.md`
 - ChinaGodMan/UserScripts: [refs/heads/main@ddaa0aee2f53169f130643d718eaaba9a2266705](https://github.com/ChinaGodMan/UserScripts/commit/ddaa0aee2f53169f130643d718eaaba9a2266705) - docs: 在`更新记录`下方增加跳转到 GitHub 上查看`CHANGELOG.md`
 - ChinaGodMan/github-updater: [refs/heads/main@3ee9452e2dac8f4eeca5e676d3a0db1a186ce6ee](https://github.com/ChinaGodMan/github-updater/commit/3ee9452e2dac8f4eeca5e676d3a0db1a186ce6ee) - feat: 🎸 添加 GitHub Actions 工作流自动生成和发布变更日志
 - ChinaGodMan/UserScripts: [refs/heads/main@f62ce3fee6263ee5262ecdf09e07f9a35d6917b7](https://github.com/ChinaGodMan/UserScripts/commit/f62ce3fee6263ee5262ecdf09e07f9a35d6917b7) - ci: 审查依赖包
-- ChinaGodMan/git-pwsh: [refs/heads/main@f54863bdb9d553575a890a85cc08497fc250b0bd](https://github.com/ChinaGodMan/git-pwsh/commit/f54863bdb9d553575a890a85cc08497fc250b0bd) - docs:  :octocat: 更新文件
 <!-- END gadpp -->
 
 ---
