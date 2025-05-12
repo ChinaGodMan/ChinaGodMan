@@ -81,11 +81,11 @@ Hi there<!--小手来源https://github.com/mayhemantt/mayhemantt/blob/master/REA
  
 ### :zap:My Repositories recent commit Sat GitHub:
 <!-- START gadpp -->
+- ChinaGodMan/git-pwsh: [refs/heads/main@f54863bdb9d553575a890a85cc08497fc250b0bd](https://github.com/ChinaGodMan/git-pwsh/commit/f54863bdb9d553575a890a85cc08497fc250b0bd) - docs:  :octocat: 更新文件
+- ChinaGodMan/UserScripts: [refs/heads/main@0595a30d034d2daf44e5d44fe16893f19149b194](https://github.com/ChinaGodMan/UserScripts/commit/0595a30d034d2daf44e5d44fe16893f19149b194) - docs(sync): 🤖 同步[`[script]/README_[lang].md`] [`docs/[lang]/README.md`]
 - ChinaGodMan/UserScripts: [refs/heads/main@a58496d912c7ba059e376f73dae0d3738b45c28e](https://github.com/ChinaGodMan/UserScripts/commit/a58496d912c7ba059e376f73dae0d3738b45c28e) - doc: test
 - ChinaGodMan/gitlens-zh-CN: [refs/heads/main@248241d27e5ee76ed43927f22fb5e5fcc0b81ca7](https://github.com/ChinaGodMan/gitlens-zh-CN/commit/248241d27e5ee76ed43927f22fb5e5fcc0b81ca7) - ci(release): 对资产标签进行发布
 - ChinaGodMan/UserScripts: [refs/heads/main@552cc344a7b5d70f0fa7b93f69c171ae2e1ebbb5](https://github.com/ChinaGodMan/UserScripts/commit/552cc344a7b5d70f0fa7b93f69c171ae2e1ebbb5) - style: :trollface:  很惭愧，就做了一点微小的工作
-- ChinaGodMan/UserScripts: [refs/heads/main@5fc2d9d63d2f635a56bb55f80637e6aeb22af1a7](https://github.com/ChinaGodMan/UserScripts/commit/5fc2d9d63d2f635a56bb55f80637e6aeb22af1a7) - chore: 删除无用文件
-- ChinaGodMan/github-updater: [refs/heads/main@3ee9452e2dac8f4eeca5e676d3a0db1a186ce6ee](https://github.com/ChinaGodMan/github-updater/commit/3ee9452e2dac8f4eeca5e676d3a0db1a186ce6ee) - feat: 🎸 添加 GitHub Actions 工作流自动生成和发布变更日志
 <!-- END gadpp -->
 
 ---
