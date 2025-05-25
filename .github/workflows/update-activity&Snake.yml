@@ -1,0 +1,51 @@
+name: 更新最近活跃发言和贪吃蛇图片
+on:
+  schedule:
+    - cron: "0 3 * * *" # UTC+8 上午 11:00 运行一次
+  workflow_dispatch:
+jobs:
+  build:
+    name: Generate profile
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      # 更新最近活跃
+      - name: Update GitHub Activity Readme
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: "Update recent activity"
+          MAX_LINES: 10
+          COMMIT_NAME: ChinaGodBot
+          COMMIT_EMAIL: chinagodman1@gmail.com
+
+        # 更新贪吃蛇图
+      - name: Update Snake Graph
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      - name: run multi_repo_commit_updater.sh
+        env:
+          PAT_GITHUB_TOKEN: ${{ secrets.TOKEN }}
+        run: |
+          chmod +x src/multi_repo_commit_updater.sh
+          ./src/multi_repo_commit_updater.sh
+
+      # 提交并推送更改
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "ChinaGodBot"
+          git config --global user.email "chinagodman1@gmail.com"
+          git add .
+          git commit -m "Update generated files" || true
+          git push origin main
