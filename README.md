@@ -81,11 +81,11 @@ Hi there<!--小手来源https://github.com/mayhemantt/mayhemantt/blob/master/REA
  
 ### :zap:My Repositories recent commit Sat GitHub:
 <!-- START gadpp -->
+- ChinaGodMan/git-pwsh: [refs/heads/main@f54863bdb9d553575a890a85cc08497fc250b0bd](https://github.com/ChinaGodMan/git-pwsh/commit/f54863bdb9d553575a890a85cc08497fc250b0bd) - docs:  :octocat: 更新文件
+- ChinaGodMan/UserScripts: [refs/heads/main@ee6846a64779b54aebe11b9d9b79588f20a1ccef](https://github.com/ChinaGodMan/UserScripts/commit/ee6846a64779b54aebe11b9d9b79588f20a1ccef) - docs(sync): 🤖 同步 [`[lang]/README.md`]
 - ChinaGodMan/gitlens-zh-CN: [refs/heads/main@248241d27e5ee76ed43927f22fb5e5fcc0b81ca7](https://github.com/ChinaGodMan/gitlens-zh-CN/commit/248241d27e5ee76ed43927f22fb5e5fcc0b81ca7) - ci(release): 对资产标签进行发布
 - ChinaGodMan/UserScripts: [refs/heads/main@354c42abcfe1987961d8b96938dd7746f7da64ed](https://github.com/ChinaGodMan/UserScripts/commit/354c42abcfe1987961d8b96938dd7746f7da64ed) - chore:  `E713`
 - ChinaGodMan/UserScripts: [refs/heads/main@8519ec7c3c26d094df9e6dcf02d33da59567ac78](https://github.com/ChinaGodMan/UserScripts/commit/8519ec7c3c26d094df9e6dcf02d33da59567ac78) - docs(sync): 🤖 同步 [`docs/[lang]/README.md`] [`[script]/README_[lang].md`]
-- ChinaGodMan/UserScripts: [refs/heads/main@b3d6335f7afe833643721f5d1654f3f4f307a82b](https://github.com/ChinaGodMan/UserScripts/commit/b3d6335f7afe833643721f5d1654f3f4f307a82b) - docs: 记录问题 (#137)
-- ChinaGodMan/github-updater: [refs/heads/main@3ee9452e2dac8f4eeca5e676d3a0db1a186ce6ee](https://github.com/ChinaGodMan/github-updater/commit/3ee9452e2dac8f4eeca5e676d3a0db1a186ce6ee) - feat: 🎸 添加 GitHub Actions 工作流自动生成和发布变更日志
 <!-- END gadpp -->
 
 ---
