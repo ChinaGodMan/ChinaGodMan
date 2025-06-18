@@ -81,11 +81,11 @@ Hi there<!--小手来源https://github.com/mayhemantt/mayhemantt/blob/master/REA
  
 ### :zap:My Repositories recent commit Sat GitHub:
 <!-- START gadpp -->
+- ChinaGodMan/git-pwsh: [refs/heads/main@f54863bdb9d553575a890a85cc08497fc250b0bd](https://github.com/ChinaGodMan/git-pwsh/commit/f54863bdb9d553575a890a85cc08497fc250b0bd) - docs:  :octocat: 更新文件
 - ChinaGodMan/UserScripts: [refs/heads/main@c86ee84efbc44f0cf8df0837c5b516bf38b73f60](https://github.com/ChinaGodMan/UserScripts/commit/c86ee84efbc44f0cf8df0837c5b516bf38b73f60) - chore(deps-dev): bump eslint from 9.28.0 to 9.29.0 (#147)
 - ChinaGodMan/gitlens-zh-CN: [refs/heads/main@248241d27e5ee76ed43927f22fb5e5fcc0b81ca7](https://github.com/ChinaGodMan/gitlens-zh-CN/commit/248241d27e5ee76ed43927f22fb5e5fcc0b81ca7) - ci(release): 对资产标签进行发布
 - ChinaGodMan/UserScripts: [refs/heads/main@482fb4335acdbc39c81901459e80be7ae13e1ea4](https://github.com/ChinaGodMan/UserScripts/commit/482fb4335acdbc39c81901459e80be7ae13e1ea4) - chore(deps-dev): bump eslint-plugin-regexp from 2.8.0 to 2.9.0 (#145)
 - ChinaGodMan/UserScripts: [refs/heads/main@ffe919fcb7ba6bb1873ec4b4de7ee5c27d5e1132](https://github.com/ChinaGodMan/UserScripts/commit/ffe919fcb7ba6bb1873ec4b4de7ee5c27d5e1132) - chore(eslint): 禁用`markdown/no-multiple-h1`和 `markdown/require-alt-text`
-- ChinaGodMan/github-updater: [refs/heads/main@3ee9452e2dac8f4eeca5e676d3a0db1a186ce6ee](https://github.com/ChinaGodMan/github-updater/commit/3ee9452e2dac8f4eeca5e676d3a0db1a186ce6ee) - feat: 🎸 添加 GitHub Actions 工作流自动生成和发布变更日志
 <!-- END gadpp -->
 
 ---
