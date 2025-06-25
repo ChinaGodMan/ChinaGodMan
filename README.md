@@ -81,11 +81,11 @@ Hi there<!--小手来源https://github.com/mayhemantt/mayhemantt/blob/master/REA
  
 ### :zap:My Repositories recent commit Sat GitHub:
 <!-- START gadpp -->
+- ChinaGodMan/gitlens-zh-CN: [refs/heads/main@248241d27e5ee76ed43927f22fb5e5fcc0b81ca7](https://github.com/ChinaGodMan/gitlens-zh-CN/commit/248241d27e5ee76ed43927f22fb5e5fcc0b81ca7) - ci(release): 对资产标签进行发布
+- ChinaGodMan/UserScripts: [refs/heads/main@d1518701cf1e968007304187b066ba50b68a6828](https://github.com/ChinaGodMan/UserScripts/commit/d1518701cf1e968007304187b066ba50b68a6828) - chore(deps-dev): bump cz-git from 1.11.1 to 1.11.2 (#154)
 - ChinaGodMan/UserScripts: [refs/heads/main@cf658008c2fa1d60add38da96d2a7fe5f34e25f2](https://github.com/ChinaGodMan/UserScripts/commit/cf658008c2fa1d60add38da96d2a7fe5f34e25f2) - chore(deps-dev): bump eslint-plugin-import from 2.31.0 to 2.32.0 (#153)
 - ChinaGodMan/UserScripts: [refs/heads/main@da0a822b1a43459d484c11aa9f44f8c6f0dc77a6](https://github.com/ChinaGodMan/UserScripts/commit/da0a822b1a43459d484c11aa9f44f8c6f0dc77a6) - chore(deps-dev): bump @eslint/markdown from 6.5.0 to 6.6.0 (#148)
 - ChinaGodMan/github-updater: [refs/heads/main@3ee9452e2dac8f4eeca5e676d3a0db1a186ce6ee](https://github.com/ChinaGodMan/github-updater/commit/3ee9452e2dac8f4eeca5e676d3a0db1a186ce6ee) - feat: 🎸 添加 GitHub Actions 工作流自动生成和发布变更日志
-- ChinaGodMan/git-pwsh: [refs/heads/main@f54863bdb9d553575a890a85cc08497fc250b0bd](https://github.com/ChinaGodMan/git-pwsh/commit/f54863bdb9d553575a890a85cc08497fc250b0bd) - docs:  :octocat: 更新文件
-- ChinaGodMan/UserScripts: [refs/heads/main@c86ee84efbc44f0cf8df0837c5b516bf38b73f60](https://github.com/ChinaGodMan/UserScripts/commit/c86ee84efbc44f0cf8df0837c5b516bf38b73f60) - chore(deps-dev): bump eslint from 9.28.0 to 9.29.0 (#147)
 <!-- END gadpp -->
 
 ---
