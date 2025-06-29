@@ -236,6 +236,13 @@ Batchfile                2 repos             █░░░░░░░░░░�
       <br />
       <a href="https://github.com/RusianHu">Rusian Huu</a>
     </td>
+    <td align="center">
+      <a href="https://github.com/ISimon3">
+        <img src="https://avatars2.githubusercontent.com/u/185886018" width="100px;" alt="ISimon3"/>
+      </a>
+      <br />
+      <a href="https://github.com/ISimon3">Simon Zh</a>
+    </td>
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
