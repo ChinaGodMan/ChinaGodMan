@@ -93,8 +93,8 @@ Hi there<!--小手来源https://github.com/mayhemantt/mayhemantt/blob/master/REA
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#139](https://github.com/ChinaGodMan/UserScriptsHistory/issues/139) in [ChinaGodMan/UserScriptsHistory](https://github.com/ChinaGodMan/UserScriptsHistory)
-2. 🔒 Closed issue [#141](https://github.com/ChinaGodMan/UserScripts/issues/141) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
+1. ❌ Reopened PR [#165](https://github.com/ChinaGodMan/UserScripts/pull/165) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
+2. ❌ Closed PR [#165](https://github.com/ChinaGodMan/UserScripts/pull/165) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
 3. 🔒 Closed issue [#139](https://github.com/ChinaGodMan/UserScripts/issues/139) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
 4. ❌ Closed PR [#138](https://github.com/ChinaGodMan/UserScriptsHistory/pull/138) in [ChinaGodMan/UserScriptsHistory](https://github.com/ChinaGodMan/UserScriptsHistory)
 5. 💪 Opened PR [#138](https://github.com/ChinaGodMan/UserScriptsHistory/pull/138) in [ChinaGodMan/UserScriptsHistory](https://github.com/ChinaGodMan/UserScriptsHistory)
