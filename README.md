@@ -219,6 +219,13 @@ Batchfile                2 repos             █░░░░░░░░░░�
       <a href="https://github.com/ILoveScratch2">ILoveScratch</a>
     </td>
     <td align="center">
+      <a href="https://github.com/shemc">
+        <img src="https://avatars2.githubusercontent.com/u/44460073" width="100px;" alt="shemc"/>
+      </a>
+      <br />
+      <a href="https://github.com/shemc">shemc</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Ieooo">
         <img src="https://avatars2.githubusercontent.com/u/47620466" width="100px;" alt="Ieooo"/>
       </a>
@@ -239,6 +246,8 @@ Batchfile                2 repos             █░░░░░░░░░░�
       <br />
       <a href="https://github.com/RusianHu">Rusian Huu</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/ISimon3">
         <img src="https://avatars2.githubusercontent.com/u/185886018" width="100px;" alt="ISimon3"/>
