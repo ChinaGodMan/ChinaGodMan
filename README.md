@@ -257,13 +257,6 @@ Batchfile                2 repos             █░░░░░░░░░░�
       <br />
       <a href="https://github.com/RusianHu">Rusian Huu</a>
     </td>
-    <td align="center">
-      <a href="https://github.com/Breeze-xfr">
-        <img src="https://avatars2.githubusercontent.com/u/201421185" width="100px;" alt="Breeze-xfr"/>
-      </a>
-      <br />
-      <a href="https://github.com/Breeze-xfr">Breeze</a>
-    </td>
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
