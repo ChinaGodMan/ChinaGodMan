@@ -93,11 +93,11 @@ Hi there<!--小手来源https://github.com/mayhemantt/mayhemantt/blob/master/REA
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#184](https://github.com/ChinaGodMan/UserScripts/issues/184#issuecomment-3194733806) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
-2. 🎉 Merged PR [#175](https://github.com/ChinaGodMan/UserScripts/pull/175) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
-3. 🎉 Merged PR [#181](https://github.com/ChinaGodMan/UserScripts/pull/181) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
-4. 💪 Opened PR [#181](https://github.com/ChinaGodMan/UserScripts/pull/181) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
-5. 🗣 Commented on [#165](https://github.com/ChinaGodMan/UserScripts/pull/165#issuecomment-3069296906) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
+1. 💪 Opened PR [#232](https://github.com/adamlui/ai-web-extensions/pull/232) in [adamlui/ai-web-extensions](https://github.com/adamlui/ai-web-extensions)
+2. 🗣 Commented on [#184](https://github.com/ChinaGodMan/UserScripts/issues/184#issuecomment-3194733806) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
+3. 🎉 Merged PR [#175](https://github.com/ChinaGodMan/UserScripts/pull/175) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
+4. 🎉 Merged PR [#181](https://github.com/ChinaGodMan/UserScripts/pull/181) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
+5. 💪 Opened PR [#181](https://github.com/ChinaGodMan/UserScripts/pull/181) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
 6. 🗣 Commented on [#137](https://github.com/ChinaGodMan/UserScripts/issues/137#issuecomment-2910566815) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
 7. 🗣 Commented on [#137](https://github.com/ChinaGodMan/UserScripts/issues/137#issuecomment-2910519896) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
 8. 🗣 Commented on [#137](https://github.com/ChinaGodMan/UserScripts/issues/137#issuecomment-2910515010) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
