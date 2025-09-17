@@ -173,6 +173,13 @@ Batchfile                2 repos             █░░░░░░░░░░�
       <a href="https://github.com/rong-xiaoli">容小狸</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Tangent-90C">
+        <img src="https://avatars2.githubusercontent.com/u/28804414" width="100px;" alt="Tangent-90C"/>
+      </a>
+      <br />
+      <a href="https://github.com/Tangent-90C">tan90º</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/ILoveScratch2">
         <img src="https://avatars2.githubusercontent.com/u/161606492" width="100px;" alt="ILoveScratch2"/>
       </a>
@@ -200,6 +207,8 @@ Batchfile                2 repos             █░░░░░░░░░░�
       <br />
       <a href="https://github.com/Ieooo">leo</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Silicon7921">
         <img src="https://avatars2.githubusercontent.com/u/107339377" width="100px;" alt="Silicon7921"/>
@@ -207,8 +216,6 @@ Batchfile                2 repos             █░░░░░░░░░░�
       <br />
       <a href="https://github.com/Silicon7921">CorePomelo</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/RusianHu">
         <img src="https://avatars2.githubusercontent.com/u/42626387" width="100px;" alt="RusianHu"/>
