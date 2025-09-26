@@ -81,11 +81,11 @@ Hi there<!--小手来源https://github.com/mayhemantt/mayhemantt/blob/master/REA
  
 ### :zap:My Repositories recent commit Sat GitHub:
 <!-- START gadpp -->
+- ChinaGodMan/UserScripts: [refs/heads/main@5ccb9ec3cb2bc525ecbb411fa78532e450e478cd](https://github.com/ChinaGodMan/UserScripts/commit/5ccb9ec3cb2bc525ecbb411fa78532e450e478cd) - chore(deps-dev): bump lint-staged from 16.2.0 to 16.2.1 (#203)
 - ChinaGodMan/UserScripts: [refs/heads/main@9bf4a23a2a2e6b0da799d16d470a102c21138c84](https://github.com/ChinaGodMan/UserScripts/commit/9bf4a23a2a2e6b0da799d16d470a102c21138c84) - chore(deps-dev): bump lint-staged from 16.1.6 to 16.2.0 (#201)
 - ChinaGodMan/UserScripts: [refs/heads/main@89d1793f576f4463a29cc6761fb7ad4cb6c43cf3](https://github.com/ChinaGodMan/UserScripts/commit/89d1793f576f4463a29cc6761fb7ad4cb6c43cf3) - chore(deps-dev): bump eslint from 9.35.0 to 9.36.0 (#198)
 - ChinaGodMan/gitlens-zh-CN: [refs/heads/main@248241d27e5ee76ed43927f22fb5e5fcc0b81ca7](https://github.com/ChinaGodMan/gitlens-zh-CN/commit/248241d27e5ee76ed43927f22fb5e5fcc0b81ca7) - ci(release): 对资产标签进行发布
 - ChinaGodMan/github-updater: [refs/heads/main@3ee9452e2dac8f4eeca5e676d3a0db1a186ce6ee](https://github.com/ChinaGodMan/github-updater/commit/3ee9452e2dac8f4eeca5e676d3a0db1a186ce6ee) - feat: 🎸 添加 GitHub Actions 工作流自动生成和发布变更日志
-- ChinaGodMan/git-pwsh: [refs/heads/main@f54863bdb9d553575a890a85cc08497fc250b0bd](https://github.com/ChinaGodMan/git-pwsh/commit/f54863bdb9d553575a890a85cc08497fc250b0bd) - docs:  :octocat: 更新文件
 <!-- END gadpp -->
 
 ---
