@@ -81,11 +81,11 @@ Hi there<!--小手来源https://github.com/mayhemantt/mayhemantt/blob/master/REA
  
 ### :zap:My Repositories recent commit Sat GitHub:
 <!-- START gadpp -->
+- ChinaGodMan/UserScripts: [refs/heads/main@c90fe165192b88b8f2b8fa28fbb425fd653be67b](https://github.com/ChinaGodMan/UserScripts/commit/c90fe165192b88b8f2b8fa28fbb425fd653be67b) - chore(deps-dev): bump @stylistic/eslint-plugin from 5.5.0 to 5.6.0 (#226)
 - ChinaGodMan/github-updater: [refs/heads/main@3ee9452e2dac8f4eeca5e676d3a0db1a186ce6ee](https://github.com/ChinaGodMan/github-updater/commit/3ee9452e2dac8f4eeca5e676d3a0db1a186ce6ee) - feat: 🎸 添加 GitHub Actions 工作流自动生成和发布变更日志
 - ChinaGodMan/gitlens-zh-CN: [refs/heads/main@248241d27e5ee76ed43927f22fb5e5fcc0b81ca7](https://github.com/ChinaGodMan/gitlens-zh-CN/commit/248241d27e5ee76ed43927f22fb5e5fcc0b81ca7) - ci(release): 对资产标签进行发布
 - ChinaGodMan/UserScripts: [refs/heads/main@99825e833baa5665b9d9889077168f80ea62de03](https://github.com/ChinaGodMan/UserScripts/commit/99825e833baa5665b9d9889077168f80ea62de03) - chore(deps): bump agrc/create-reminder-action from 1.1.22 to 1.1.23 (#224)
 - ChinaGodMan/git-pwsh: [refs/heads/main@f54863bdb9d553575a890a85cc08497fc250b0bd](https://github.com/ChinaGodMan/git-pwsh/commit/f54863bdb9d553575a890a85cc08497fc250b0bd) - docs:  :octocat: 更新文件
-- ChinaGodMan/UserScripts: [refs/heads/main@997649698f612b4716823f9d90bd6052feb99f05](https://github.com/ChinaGodMan/UserScripts/commit/997649698f612b4716823f9d90bd6052feb99f05) - chore(deps-dev): bump @eslint/json from 0.13.2 to 0.14.0 (#222)
 <!-- END gadpp -->
 
 ---
