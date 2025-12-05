@@ -235,18 +235,18 @@ Batchfile                2 repos             █░░░░░░░░░░�
       <a href="https://github.com/shemc">shemc</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Mayank-01x">
-        <img src="https://avatars2.githubusercontent.com/u/58812598" width="100px;" alt="Mayank-01x"/>
-      </a>
-      <br />
-      <a href="https://github.com/Mayank-01x">Mayank Aggarwal</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Ieooo">
         <img src="https://avatars2.githubusercontent.com/u/47620466" width="100px;" alt="Ieooo"/>
       </a>
       <br />
       <a href="https://github.com/Ieooo">leo</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Mayank-01x">
+        <img src="https://avatars2.githubusercontent.com/u/58812598" width="100px;" alt="Mayank-01x"/>
+      </a>
+      <br />
+      <a href="https://github.com/Mayank-01x">Mayank Aggarwal</a>
     </td>
   </tr>
   <tr>
