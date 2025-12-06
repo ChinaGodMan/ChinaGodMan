@@ -242,20 +242,20 @@ Batchfile                2 repos             █░░░░░░░░░░�
       <a href="https://github.com/Ieooo">leo</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Mayank-01x">
-        <img src="https://avatars2.githubusercontent.com/u/58812598" width="100px;" alt="Mayank-01x"/>
-      </a>
-      <br />
-      <a href="https://github.com/Mayank-01x">Mayank Aggarwal</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/zhu-jl18">
         <img src="https://avatars2.githubusercontent.com/u/48956204" width="100px;" alt="zhu-jl18"/>
       </a>
       <br />
       <a href="https://github.com/zhu-jl18">makoMako</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Mayank-01x">
+        <img src="https://avatars2.githubusercontent.com/u/58812598" width="100px;" alt="Mayank-01x"/>
+      </a>
+      <br />
+      <a href="https://github.com/Mayank-01x">Mayank Aggarwal</a>
     </td>
     <td align="center">
       <a href="https://github.com/Silicon7921">
