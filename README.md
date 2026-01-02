@@ -207,11 +207,11 @@ Batchfile                1 repo              █░░░░░░░░░░�
       <a href="https://github.com/NekoMirra">NekoMirra</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ILoveScratch2">
-        <img src="https://avatars2.githubusercontent.com/u/161606492" width="100px;" alt="ILoveScratch2"/>
+      <a href="https://github.com/Tangent-90C">
+        <img src="https://avatars2.githubusercontent.com/u/28804414" width="100px;" alt="Tangent-90C"/>
       </a>
       <br />
-      <a href="https://github.com/ILoveScratch2">ILoveScratch</a>
+      <a href="https://github.com/Tangent-90C">tan90º</a>
     </td>
     <td align="center">
       <a href="https://github.com/rong-xiaoli">
@@ -221,11 +221,18 @@ Batchfile                1 repo              █░░░░░░░░░░�
       <a href="https://github.com/rong-xiaoli">容小狸</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Tangent-90C">
-        <img src="https://avatars2.githubusercontent.com/u/28804414" width="100px;" alt="Tangent-90C"/>
+      <a href="https://github.com/ILoveScratch2">
+        <img src="https://avatars2.githubusercontent.com/u/161606492" width="100px;" alt="ILoveScratch2"/>
       </a>
       <br />
-      <a href="https://github.com/Tangent-90C">tan90º</a>
+      <a href="https://github.com/ILoveScratch2">ILoveScratch</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/fonzi">
+        <img src="https://avatars2.githubusercontent.com/u/626330" width="100px;" alt="fonzi"/>
+      </a>
+      <br />
+      <a href="https://github.com/fonzi">Alfonso Vazquez</a>
     </td>
     <td align="center">
       <a href="https://github.com/shemc">
@@ -241,6 +248,8 @@ Batchfile                1 repo              █░░░░░░░░░░�
       <br />
       <a href="https://github.com/zhu-jl18">makoMako</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Mayank-01x">
         <img src="https://avatars2.githubusercontent.com/u/58812598" width="100px;" alt="Mayank-01x"/>
@@ -248,14 +257,19 @@ Batchfile                1 repo              █░░░░░░░░░░�
       <br />
       <a href="https://github.com/Mayank-01x">Mayank Aggarwal</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Ieooo">
         <img src="https://avatars2.githubusercontent.com/u/47620466" width="100px;" alt="Ieooo"/>
       </a>
       <br />
       <a href="https://github.com/Ieooo">leo</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/BenueLin">
+        <img src="https://avatars2.githubusercontent.com/u/28758732" width="100px;" alt="BenueLin"/>
+      </a>
+      <br />
+      <a href="https://github.com/BenueLin">BenueLin</a>
     </td>
     <td align="center">
       <a href="https://github.com/Silicon7921">
@@ -279,19 +293,14 @@ Batchfile                1 repo              █░░░░░░░░░░�
       <a href="https://github.com/abc202306">Librarian EW</a>
     </td>
     <td align="center">
-      <a href="https://github.com/wcjjzz">
-        <img src="https://avatars2.githubusercontent.com/u/163649978" width="100px;" alt="wcjjzz"/>
-      </a>
-      <br />
-      <a href="https://github.com/wcjjzz">wcjjzz</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/RusianHu">
         <img src="https://avatars2.githubusercontent.com/u/42626387" width="100px;" alt="RusianHu"/>
       </a>
       <br />
       <a href="https://github.com/RusianHu">Rusian Huu</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Joey0217">
         <img src="https://avatars2.githubusercontent.com/u/36755962" width="100px;" alt="Joey0217"/>
