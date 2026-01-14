@@ -228,6 +228,13 @@ Batchfile                1 repo              █░░░░░░░░░░�
       <a href="https://github.com/ILoveScratch2">ILoveScratch</a>
     </td>
     <td align="center">
+      <a href="https://github.com/zhu-jl18">
+        <img src="https://avatars2.githubusercontent.com/u/48956204" width="100px;" alt="zhu-jl18"/>
+      </a>
+      <br />
+      <a href="https://github.com/zhu-jl18">makoMako</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/fonzi">
         <img src="https://avatars2.githubusercontent.com/u/626330" width="100px;" alt="fonzi"/>
       </a>
@@ -240,13 +247,6 @@ Batchfile                1 repo              █░░░░░░░░░░�
       </a>
       <br />
       <a href="https://github.com/shemc">shemc</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/zhu-jl18">
-        <img src="https://avatars2.githubusercontent.com/u/48956204" width="100px;" alt="zhu-jl18"/>
-      </a>
-      <br />
-      <a href="https://github.com/zhu-jl18">makoMako</a>
     </td>
   </tr>
   <tr>
@@ -265,11 +265,25 @@ Batchfile                1 repo              █░░░░░░░░░░�
       <a href="https://github.com/Ieooo">leo</a>
     </td>
     <td align="center">
+      <a href="https://github.com/sageneox">
+        <img src="https://avatars2.githubusercontent.com/u/245347686" width="100px;" alt="sageneox"/>
+      </a>
+      <br />
+      <a href="https://github.com/sageneox">neo</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/BenueLin">
         <img src="https://avatars2.githubusercontent.com/u/28758732" width="100px;" alt="BenueLin"/>
       </a>
       <br />
       <a href="https://github.com/BenueLin">BenueLin</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/abc202306">
+        <img src="https://avatars2.githubusercontent.com/u/135524584" width="100px;" alt="abc202306"/>
+      </a>
+      <br />
+      <a href="https://github.com/abc202306">Librarian EW</a>
     </td>
     <td align="center">
       <a href="https://github.com/Silicon7921">
@@ -285,13 +299,8 @@ Batchfile                1 repo              █░░░░░░░░░░�
       <br />
       <a href="https://github.com/loooooon">loooooon</a>
     </td>
-    <td align="center">
-      <a href="https://github.com/abc202306">
-        <img src="https://avatars2.githubusercontent.com/u/135524584" width="100px;" alt="abc202306"/>
-      </a>
-      <br />
-      <a href="https://github.com/abc202306">Librarian EW</a>
-    </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/RusianHu">
         <img src="https://avatars2.githubusercontent.com/u/42626387" width="100px;" alt="RusianHu"/>
@@ -299,14 +308,19 @@ Batchfile                1 repo              █░░░░░░░░░░�
       <br />
       <a href="https://github.com/RusianHu">Rusian Huu</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Joey0217">
         <img src="https://avatars2.githubusercontent.com/u/36755962" width="100px;" alt="Joey0217"/>
       </a>
       <br />
       <a href="https://github.com/Joey0217">Joey0217</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/2788127358">
+        <img src="https://avatars2.githubusercontent.com/u/77651908" width="100px;" alt="2788127358"/>
+      </a>
+      <br />
+      <a href="https://github.com/2788127358">linlang</a>
     </td>
   </tr>
 </table>
