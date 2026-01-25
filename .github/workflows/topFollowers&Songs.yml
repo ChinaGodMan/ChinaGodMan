@@ -1,0 +1,37 @@
+# 来自：https://github.com/ouuan/ouuan/blob/master/.github/workflows/topFollowers.yml
+name: Get Top Followers & Songs
+
+on:
+  schedule:
+    - cron: "0 2 * * *" # UTC+8 上午 10:00 运行一次
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup python
+        uses: actions/setup-python@v5.6.0
+        with:
+          python-version: "3.12.4"
+
+      - name: Install requests
+        run: pip install -r src/requirements.txt
+
+      - name: Top followers
+        run: python src/getTopFollowers.py ${{ github.repository_owner }} ${{ secrets.GITHUB_TOKEN }} README.md
+
+      - name: Recent songs
+        run: python src/recent_songs.py
+        env:
+          USER_ID: ${{ secrets.USER_ID }}
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "chinagodman1@gmail.com"
+          git config --local user.name "ChinaGodBot"
+          git add .
+          git commit -m "Update top followers &&  recent songs" || true
+          git push

@@ -1,0 +1,5 @@
+https://netease-recent-profile.vercel.app/?id=USER_ID&type=0&show_percent=1&size=60&mode=light&number=15&column=3|163_light.svg
+https://netease-recent-profile.vercel.app/?id=USER_ID&type=0&show_percent=1&size=60&number=15&column=3|163_dark.svg
+https://netease-recent-profile.vercel.app/?id=USER_ID&theme=card&title=Favorite&size=300|favorite.svg
+https://netease-recent-profile.vercel.app/?id=USER_ID&type=0&size=60|163_dark_mini.svg
+https://netease-recent-profile.vercel.app/?id=USER_ID&type=0&size=60&mode=light|163_light_mini.svg
