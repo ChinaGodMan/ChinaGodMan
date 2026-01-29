@@ -81,11 +81,11 @@ Hi there<!--小手来源https://github.com/mayhemantt/mayhemantt/blob/master/REA
  
 ### :zap:My Repositories recent commit Sat GitHub:
 <!-- START gadpp -->
+- ChinaGodMan/git-pwsh: [refs/heads/main@f54863bdb9d553575a890a85cc08497fc250b0bd](https://github.com/ChinaGodMan/git-pwsh/commit/f54863bdb9d553575a890a85cc08497fc250b0bd) - docs:  :octocat: 更新文件
 - ChinaGodMan/UserScripts: [refs/heads/main@40e01ff8a595bcd94e7fe4c18269191203789969](https://github.com/ChinaGodMan/UserScripts/commit/40e01ff8a595bcd94e7fe4c18269191203789969) - chore: 修正一些错误
 - ChinaGodMan/github-updater: [refs/heads/main@3ee9452e2dac8f4eeca5e676d3a0db1a186ce6ee](https://github.com/ChinaGodMan/github-updater/commit/3ee9452e2dac8f4eeca5e676d3a0db1a186ce6ee) - feat: 🎸 添加 GitHub Actions 工作流自动生成和发布变更日志
 - ChinaGodMan/gitlens-zh-CN: [refs/heads/main@248241d27e5ee76ed43927f22fb5e5fcc0b81ca7](https://github.com/ChinaGodMan/gitlens-zh-CN/commit/248241d27e5ee76ed43927f22fb5e5fcc0b81ca7) - ci(release): 对资产标签进行发布
 - ChinaGodMan/UserScripts: [refs/heads/main@eb93d8421c9333cd06016960579ce72c2ff7cbdd](https://github.com/ChinaGodMan/UserScripts/commit/eb93d8421c9333cd06016960579ce72c2ff7cbdd) - chore(deps-dev): bump @stylistic/eslint-plugin from 5.7.0 to 5.7.1 (#248)
-- ChinaGodMan/UserScripts: [refs/heads/main@6cd250c4268f6cf77d2e64a916fcb5b903d4752c](https://github.com/ChinaGodMan/UserScripts/commit/6cd250c4268f6cf77d2e64a916fcb5b903d4752c) - chore(deps-dev): bump eslint-plugin-regexp from 2.10.0 to 3.0.0 (#247)
 <!-- END gadpp -->
 
 ---
