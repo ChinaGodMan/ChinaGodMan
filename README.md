@@ -81,11 +81,11 @@ Hi there<!--小手来源https://github.com/mayhemantt/mayhemantt/blob/master/REA
  
 ### :zap:My Repositories recent commit Sat GitHub:
 <!-- START gadpp -->
+- ChinaGodMan/git-pwsh: [refs/heads/main@f54863bdb9d553575a890a85cc08497fc250b0bd](https://github.com/ChinaGodMan/git-pwsh/commit/f54863bdb9d553575a890a85cc08497fc250b0bd) - docs:  :octocat: 更新文件
 - ChinaGodMan/UserScripts: [refs/heads/main@496b3374e0f0ba316baf4262d906327ad1ed9000](https://github.com/ChinaGodMan/UserScripts/commit/496b3374e0f0ba316baf4262d906327ad1ed9000) - chore(deps-dev): bump @stylistic/eslint-plugin from 5.7.1 to 5.8.0 (#251)
 - ChinaGodMan/github-updater: [refs/heads/main@3ee9452e2dac8f4eeca5e676d3a0db1a186ce6ee](https://github.com/ChinaGodMan/github-updater/commit/3ee9452e2dac8f4eeca5e676d3a0db1a186ce6ee) - feat: 🎸 添加 GitHub Actions 工作流自动生成和发布变更日志
 - ChinaGodMan/gitlens-zh-CN: [refs/heads/main@248241d27e5ee76ed43927f22fb5e5fcc0b81ca7](https://github.com/ChinaGodMan/gitlens-zh-CN/commit/248241d27e5ee76ed43927f22fb5e5fcc0b81ca7) - ci(release): 对资产标签进行发布
 - ChinaGodMan/UserScripts: [refs/heads/main@50d88b76466d3415e128ad118cd768ce6d6701e7](https://github.com/ChinaGodMan/UserScripts/commit/50d88b76466d3415e128ad118cd768ce6d6701e7) - fix(`@grant none`): 删除掉`@grant none`,防止声明的其他`@grant *`被忽略
-- ChinaGodMan/UserScripts: [refs/heads/main@f7c545c034abd15ff4e701096dbff6efadd3225b](https://github.com/ChinaGodMan/UserScripts/commit/f7c545c034abd15ff4e701096dbff6efadd3225b) - chore(deps-dev): bump @eslint/json from 0.14.0 to 1.0.0 (#249)
 <!-- END gadpp -->
 
 ---
