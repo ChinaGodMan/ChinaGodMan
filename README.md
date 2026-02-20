@@ -81,11 +81,11 @@ Hi there<!--小手来源https://github.com/mayhemantt/mayhemantt/blob/master/REA
  
 ### :zap:My Repositories recent commit Sat GitHub:
 <!-- START gadpp -->
+- ChinaGodMan/github-updater: [refs/heads/main@3ee9452e2dac8f4eeca5e676d3a0db1a186ce6ee](https://github.com/ChinaGodMan/github-updater/commit/3ee9452e2dac8f4eeca5e676d3a0db1a186ce6ee) - feat: 🎸 添加 GitHub Actions 工作流自动生成和发布变更日志
+- ChinaGodMan/UserScripts: [refs/heads/main@cc40e3e2f52807de498bd0a0cb3b7e12454261be](https://github.com/ChinaGodMan/UserScripts/commit/cc40e3e2f52807de498bd0a0cb3b7e12454261be) - chore(eslint): 限制 dependabot 更新`eslint`的版本范围
 - ChinaGodMan/gitlens-zh-CN: [refs/heads/main@248241d27e5ee76ed43927f22fb5e5fcc0b81ca7](https://github.com/ChinaGodMan/gitlens-zh-CN/commit/248241d27e5ee76ed43927f22fb5e5fcc0b81ca7) - ci(release): 对资产标签进行发布
 - ChinaGodMan/UserScripts: [refs/heads/main@99b4de0851d5563402f4f337990c441245b8f7e1](https://github.com/ChinaGodMan/UserScripts/commit/99b4de0851d5563402f4f337990c441245b8f7e1) - chore(deps-dev): bump eslint-plugin-yml from 3.2.0 to 3.2.1 (#257)
 - ChinaGodMan/UserScripts: [refs/heads/main@14ea0c2caf1970f280f04f6f481eeec1f13e799a](https://github.com/ChinaGodMan/UserScripts/commit/14ea0c2caf1970f280f04f6f481eeec1f13e799a) - chore(deps-dev): bump eslint-plugin-yml from 3.1.2 to 3.2.0 (#255)
-- ChinaGodMan/UserScripts: [refs/heads/main@fbfd7b3281c3d48c99fb0828f5c43e0f9acfe724](https://github.com/ChinaGodMan/UserScripts/commit/fbfd7b3281c3d48c99fb0828f5c43e0f9acfe724) - chore(deps-dev): bump @eslint/json from 1.0.0 to 1.0.1 (#254)
-- ChinaGodMan/git-pwsh: [refs/heads/main@f54863bdb9d553575a890a85cc08497fc250b0bd](https://github.com/ChinaGodMan/git-pwsh/commit/f54863bdb9d553575a890a85cc08497fc250b0bd) - docs:  :octocat: 更新文件
 <!-- END gadpp -->
 
 ---
