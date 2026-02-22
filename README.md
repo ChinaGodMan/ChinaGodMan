@@ -81,11 +81,11 @@ Hi there<!--小手来源https://github.com/mayhemantt/mayhemantt/blob/master/REA
  
 ### :zap:My Repositories recent commit Sat GitHub:
 <!-- START gadpp -->
+- ChinaGodMan/UserScripts: [refs/heads/main@bb39f9690574a695e82014983f88f6ce812911d0](https://github.com/ChinaGodMan/UserScripts/commit/bb39f9690574a695e82014983f88f6ce812911d0) - Merge pull request #260 from molanp/patch-1
 - ChinaGodMan/git-pwsh: [refs/heads/main@f54863bdb9d553575a890a85cc08497fc250b0bd](https://github.com/ChinaGodMan/git-pwsh/commit/f54863bdb9d553575a890a85cc08497fc250b0bd) - docs:  :octocat: 更新文件
 - ChinaGodMan/UserScripts: [refs/heads/main@080c11b46d12a5034c9d61eb1cfc9687ff53dd97](https://github.com/ChinaGodMan/UserScripts/commit/080c11b46d12a5034c9d61eb1cfc9687ff53dd97) - chore(eslint): 限制 dependabot 更新`eslint`的版本范围
 - ChinaGodMan/github-updater: [refs/heads/main@3ee9452e2dac8f4eeca5e676d3a0db1a186ce6ee](https://github.com/ChinaGodMan/github-updater/commit/3ee9452e2dac8f4eeca5e676d3a0db1a186ce6ee) - feat: 🎸 添加 GitHub Actions 工作流自动生成和发布变更日志
 - ChinaGodMan/UserScripts: [refs/heads/main@cc40e3e2f52807de498bd0a0cb3b7e12454261be](https://github.com/ChinaGodMan/UserScripts/commit/cc40e3e2f52807de498bd0a0cb3b7e12454261be) - chore(eslint): 限制 dependabot 更新`eslint`的版本范围
-- ChinaGodMan/gitlens-zh-CN: [refs/heads/main@248241d27e5ee76ed43927f22fb5e5fcc0b81ca7](https://github.com/ChinaGodMan/gitlens-zh-CN/commit/248241d27e5ee76ed43927f22fb5e5fcc0b81ca7) - ci(release): 对资产标签进行发布
 <!-- END gadpp -->
 
 ---
