@@ -93,8 +93,8 @@ Hi there<!--小手来源https://github.com/mayhemantt/mayhemantt/blob/master/REA
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#199](https://github.com/ChinaGodMan/UserScripts/issues/199#issuecomment-3864902383) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
-2. 🔓 Reopened issue [#199](https://github.com/ChinaGodMan/UserScripts/issues/199) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
+1. 🔒 Closed issue [#199](https://github.com/ChinaGodMan/UserScripts/issues/199) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
+2. ℹ️ Assigned issue [#199](https://github.com/ChinaGodMan/UserScripts/issues/199) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
 3. 🗣 Commented on [#243](https://github.com/ChinaGodMan/UserScripts/issues/243#issuecomment-3770487019) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
 4. 🗣 Commented on [#204](https://github.com/ChinaGodMan/UserScripts/issues/204#issuecomment-3659251534) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
 5. 🗣 Commented on [#210](https://github.com/ChinaGodMan/UserScripts/issues/210#issuecomment-3659226388) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
