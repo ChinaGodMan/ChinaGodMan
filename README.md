@@ -37,6 +37,7 @@ Hi there<!--小手来源https://github.com/mayhemantt/mayhemantt/blob/master/REA
     <img src="MaoZhuXi.jpg" style="width: 400px; height: 250px;" />
 </div>
 <div align="center">
+    
 <a href="https://t.me/qinwuyuan"><img src="https://img.shields.io/static/v1?label=%20&message=telegram&logo=telegram&logoColor=white&labelColor=%230088CC&color=%230088CC&style=for-the-badge" alt="Telegram"></a>
 <a href="https://www.tiktok.com/@qinwuyuan"><img src="https://img.shields.io/static/v1?label=%20&message=tiktok&logo=tiktok&logoColor=%23EE1D52&labelColor=%23010101&color=%23EE1D52&style=for-the-badge" alt="TikTok"></a>
 <a href="https://www.instagram.com/nide9448/"><img src="https://img.shields.io/static/v1?label=%20&message=instagram&logo=instagram&logoColor=white&labelColor=%23E1306C&color=%23E1306C&style=for-the-badge" alt="Instagram"></a>
@@ -48,7 +49,9 @@ Hi there<!--小手来源https://github.com/mayhemantt/mayhemantt/blob/master/REA
     <img src="dist/github-snake.svg#gh-light-mode-only"/></a>
 <a href="dist/github-snake-dark.svg#gh-dark-mode-only">
     <img src="dist/github-snake-dark.svg#gh-dark-mode-only"/></a>
-
+<!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
+  <img align="center" width="842" style="display: inline-block;" src="https://github-readme-activity-graph.vercel.app/graph?username=chinagodman&theme=rogue&hide_border=true&area=true" />
+  
 ---
 <!--网易云图片服务来源 https://github.com/zonemeen/netease-recent-profile-->
 <a href="dist/163_light.svg#gh-light-mode-only">
@@ -335,4 +338,12 @@ Batchfile                1 repo              █░░░░░░░░░░�
 <!--https://github.com/mayhemantt/mayhemantt/blob/master/README.md-->
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
+<!-- https://github.com/kyechan99/capsule-render -->
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Sedan+SC&size=28&duration=2000&pause=200&color=FFFFFFFF&center=true&vCenter=true&repeat=true&random=false&width=435&lines=Thank+you+for+visiting+!" >
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Sedan+SC&size=28&duration=2000&pause=200&color=000000FF&center=true&vCenter=true&repeat=true&random=false&width=435&lines=Thank+you+for+visiting+!" >
+  <img alt="Thank you for visiting!" src="" >
+</picture>
 </p>
