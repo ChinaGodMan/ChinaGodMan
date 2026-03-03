@@ -1,5 +1,5 @@
 """
-   Copyright 2020-2024 Yufan You <https://github.com/ouuan>
+   Copyright 2020-2025 Yufan You <https://github.com/ouuan>
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
@@ -22,12 +22,12 @@ from time import sleep
 from functools import partial
 
 if __name__ == "__main__":
-    assert(len(sys.argv) == 4)
+    assert (len(sys.argv) == 4)
     handle = sys.argv[1]
     token = sys.argv[2]
     readmePath = sys.argv[3]
 
-    print = partial(print, flush = True)
+    print = partial(print, flush=True)
 
     headers = {
         "Authorization": f"token {token}"
@@ -92,7 +92,7 @@ query {{
 }}
 '''
         try:
-            response = requests.post(f"https://api.github.com/graphql", json.dumps({ "query": query }), headers = headers)
+            response = requests.post(f"https://api.github.com/graphql", json.dumps({"query": query}), headers=headers)
         except Exception as e:
             if retryCount >= 3:
                 raise e
@@ -110,7 +110,7 @@ query {{
                     continue
                 ssthresh = cwnd // 2
                 cwnd = 1
-                print(f"Error, entering slow start with {ssthresh = }")
+                print(f"Error, entering slow start with {ssthresh=}")
                 sleep(5)
                 continue
             print(query)
@@ -124,36 +124,47 @@ query {{
         else:
             cwnd += 1
         res = response.json()["data"]["user"]["followers"]
-        for follower in res["nodes"]:
-            following = follower["following"]["totalCount"]
-            login = follower["login"]
-            name = follower["name"]
-            id = follower["databaseId"]
-            followerNumber = follower["followers"]["totalCount"]
-            active = follower["contributionsCollection"]["contributionCalendar"]["totalContributions"] > 5
-            if not active:
-                print(f"Skipped{'*' if followerNumber > 500 else ''} (inactive): https://github.com/{login} with {followerNumber} followers and {following} following")
-                continue
-            quota = followerNumber
-            for i, starCount in enumerate([repo["stargazerCount"] for repo in follower["repositories"]["nodes"]]):
-                if starCount <= i:
-                    break
-                quota += starCount * (i + 1)
-            for i, starCount in enumerate([repo["stargazerCount"] for repo in follower["repositoriesContributedTo"]["nodes"]]):
-                if starCount <= i:
-                    break
-                quota += i * 5
-            if following > quota:
-                print(f"Skipped{'*' if followerNumber > 500 else ''} (quota): https://github.com/{login} with {followerNumber} followers and {following} following")
-                continue
-            followers.append((followerNumber, login, id, name if name else login))
-            print(followers[-1])
+        try:
+            for follower in res["nodes"]:
+                following = follower["following"]["totalCount"]
+                login = follower["login"]
+                name = follower["name"]
+                id = follower["databaseId"]
+                followerNumber = follower["followers"]["totalCount"]
+                active = follower["contributionsCollection"]["contributionCalendar"]["totalContributions"] > 5
+                if not active:
+                    print(f"Skipped{'*' if followerNumber > 500 else ''} (inactive): https://github.com/{login} with {followerNumber} followers and {following} following")
+                    continue
+                quota = followerNumber
+                for i, starCount in enumerate([repo["stargazerCount"] for repo in follower["repositories"]["nodes"]]):
+                    if starCount <= i:
+                        break
+                    quota += starCount * (i + 1)
+                for i, starCount in enumerate([repo["stargazerCount"] for repo in follower["repositoriesContributedTo"]["nodes"]]):
+                    if starCount <= i:
+                        break
+                    quota += i * 5
+                if following > quota:
+                    print(f"Skipped{'*' if followerNumber > 500 else ''} (quota): https://github.com/{login} with {followerNumber} followers and {following} following")
+                    continue
+                followers.append((followerNumber, login, id, name if name else login))
+                print(followers[-1])
+        except TypeError as e:
+            retryCount += 1
+            if retryCount >= 3:
+                print(res)
+                raise e
+            print(f'Error: {e}')
+            ssthresh = cwnd // 2
+            cwnd = 1
+            sleep(5)
+            continue
         sys.stdout.flush()
         if not res["pageInfo"]["hasNextPage"]:
             break
         cursor = res["pageInfo"]["endCursor"]
 
-    followers.sort(reverse = True)
+    followers = sorted(set(followers), reverse=True)
 
     html = "<table>\n"
 
