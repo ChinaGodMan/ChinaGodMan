@@ -241,14 +241,28 @@ Batchfile                1 repo              █░░░░░░░░░░�
       <a href="https://github.com/fonzi">Alfonso Vazquez</a>
     </td>
     <td align="center">
+      <a href="https://github.com/0xBADBAC0N">
+        <img src="https://avatars2.githubusercontent.com/u/24916828" width="100px;" alt="0xBADBAC0N"/>
+      </a>
+      <br />
+      <a href="https://github.com/0xBADBAC0N">0xBADBAC0N</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/shemc">
         <img src="https://avatars2.githubusercontent.com/u/44460073" width="100px;" alt="shemc"/>
       </a>
       <br />
       <a href="https://github.com/shemc">shemc</a>
     </td>
-  </tr>
-  <tr>
+    <td align="center">
+      <a href="https://github.com/abc202306">
+        <img src="https://avatars2.githubusercontent.com/u/135524584" width="100px;" alt="abc202306"/>
+      </a>
+      <br />
+      <a href="https://github.com/abc202306">Librarian EW</a>
+    </td>
     <td align="center">
       <a href="https://github.com/systemoutprintlnhelloworld">
         <img src="https://avatars2.githubusercontent.com/u/62531937" width="100px;" alt="systemoutprintlnhelloworld"/>
@@ -262,13 +276,6 @@ Batchfile                1 repo              █░░░░░░░░░░�
       </a>
       <br />
       <a href="https://github.com/sageneox">neo</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/abc202306">
-        <img src="https://avatars2.githubusercontent.com/u/135524584" width="100px;" alt="abc202306"/>
-      </a>
-      <br />
-      <a href="https://github.com/abc202306">Librarian EW</a>
     </td>
     <td align="center">
       <a href="https://github.com/Ieooo">
@@ -291,13 +298,6 @@ Batchfile                1 repo              █░░░░░░░░░░�
       <br />
       <a href="https://github.com/loooooon">loooooon</a>
     </td>
-    <td align="center">
-      <a href="https://github.com/shouwang37">
-        <img src="https://avatars2.githubusercontent.com/u/171397008" width="100px;" alt="shouwang37"/>
-      </a>
-      <br />
-      <a href="https://github.com/shouwang37">守望</a>
-    </td>
   </tr>
   <tr>
     <td align="center">
@@ -306,6 +306,13 @@ Batchfile                1 repo              █░░░░░░░░░░�
       </a>
       <br />
       <a href="https://github.com/RusianHu">Rusian Huu</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/shouwang37">
+        <img src="https://avatars2.githubusercontent.com/u/171397008" width="100px;" alt="shouwang37"/>
+      </a>
+      <br />
+      <a href="https://github.com/shouwang37">守望</a>
     </td>
     <td align="center">
       <a href="https://github.com/kuuuun">
