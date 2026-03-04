@@ -231,11 +231,11 @@ Batchfile                1 repo              █░░░░░░░░░░�
       <a href="https://github.com/ILoveScratch2">ILoveScratch</a>
     </td>
     <td align="center">
-      <a href="https://github.com/zhu-jl18">
-        <img src="https://avatars2.githubusercontent.com/u/48956204" width="100px;" alt="zhu-jl18"/>
+      <a href="https://github.com/makoMakoGo">
+        <img src="https://avatars2.githubusercontent.com/u/48956204" width="100px;" alt="makoMakoGo"/>
       </a>
       <br />
-      <a href="https://github.com/zhu-jl18">makoMako</a>
+      <a href="https://github.com/makoMakoGo">makoMakoGo</a>
     </td>
     <td align="center">
       <a href="https://github.com/fonzi">
