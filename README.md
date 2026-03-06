@@ -84,11 +84,11 @@ Hi there<!--小手来源https://github.com/mayhemantt/mayhemantt/blob/master/REA
  
 ### :zap:My Repositories recent commit Sat GitHub:
 <!-- START gadpp -->
+- ChinaGodMan/gitlens-zh-CN: [refs/heads/main@248241d27e5ee76ed43927f22fb5e5fcc0b81ca7](https://github.com/ChinaGodMan/gitlens-zh-CN/commit/248241d27e5ee76ed43927f22fb5e5fcc0b81ca7) - ci(release): 对资产标签进行发布
+- ChinaGodMan/UserScripts: [refs/heads/main@33a85877559a59e70339e481aecd554bdc79b084](https://github.com/ChinaGodMan/UserScripts/commit/33a85877559a59e70339e481aecd554bdc79b084) - ci: 删除试用期结束的服务
 - ChinaGodMan/UserScripts: [refs/heads/main@ea6b1323393aedaeaaa8a8ce81c9ac85ccf43950](https://github.com/ChinaGodMan/UserScripts/commit/ea6b1323393aedaeaaa8a8ce81c9ac85ccf43950) - chore(deps-dev): bump eslint-plugin-yml from 3.3.0 to 3.3.1 (#264)
 - ChinaGodMan/UserScripts: [refs/heads/main@cdb72477e7d4d213085cf2e2a180c95e92a7e195](https://github.com/ChinaGodMan/UserScripts/commit/cdb72477e7d4d213085cf2e2a180c95e92a7e195) - chore(deps-dev): bump lint-staged from 16.2.7 to 16.3.1 (#262)
 - ChinaGodMan/git-pwsh: [refs/heads/main@f54863bdb9d553575a890a85cc08497fc250b0bd](https://github.com/ChinaGodMan/git-pwsh/commit/f54863bdb9d553575a890a85cc08497fc250b0bd) - docs:  :octocat: 更新文件
-- ChinaGodMan/github-updater: [refs/heads/main@3ee9452e2dac8f4eeca5e676d3a0db1a186ce6ee](https://github.com/ChinaGodMan/github-updater/commit/3ee9452e2dac8f4eeca5e676d3a0db1a186ce6ee) - feat: 🎸 添加 GitHub Actions 工作流自动生成和发布变更日志
-- ChinaGodMan/UserScripts: [refs/heads/main@ea10746d2bf1bc5ac90902544a17460f75082bca](https://github.com/ChinaGodMan/UserScripts/commit/ea10746d2bf1bc5ac90902544a17460f75082bca) - chore(deps-dev): bump eslint-plugin-yml from 3.2.1 to 3.3.0 (#261)
 <!-- END gadpp -->
 
 ---
