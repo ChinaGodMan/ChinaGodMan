@@ -96,16 +96,16 @@ Hi there<!--小手来源https://github.com/mayhemantt/mayhemantt/blob/master/REA
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#99](https://github.com/jay3-yy/BiliPai/issues/99) in [jay3-yy/BiliPai](https://github.com/jay3-yy/BiliPai)
-2. ❗ Opened issue [#91](https://github.com/jay3-yy/BiliPai/issues/91) in [jay3-yy/BiliPai](https://github.com/jay3-yy/BiliPai)
-3. 🗣 Commented on [#202](https://github.com/ChinaGodMan/UserScripts/issues/202#issuecomment-4011327724) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
-4. 🗣 Commented on [#210](https://github.com/ChinaGodMan/UserScripts/issues/210#issuecomment-4011324977) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
-5. 🔒 Closed issue [#237](https://github.com/ChinaGodMan/UserScripts/issues/237) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
-6. 🔒 Closed issue [#204](https://github.com/ChinaGodMan/UserScripts/issues/204) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
-7. 🔒 Closed issue [#196](https://github.com/ChinaGodMan/UserScripts/issues/196) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
-8. 🔒 Closed issue [#207](https://github.com/ChinaGodMan/UserScripts/issues/207) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
-9. 🔒 Closed issue [#173](https://github.com/ChinaGodMan/UserScripts/issues/173) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
-10. 🔒 Closed issue [#243](https://github.com/ChinaGodMan/UserScripts/issues/243) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
+1. ℹ️ Labeled issue [#240](https://github.com/ChinaGodMan/UserScripts/issues/240) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
+2. 🔒 Closed issue [#202](https://github.com/ChinaGodMan/UserScripts/issues/202) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
+3. ❗ Opened issue [#99](https://github.com/jay3-yy/BiliPai/issues/99) in [jay3-yy/BiliPai](https://github.com/jay3-yy/BiliPai)
+4. ❗ Opened issue [#91](https://github.com/jay3-yy/BiliPai/issues/91) in [jay3-yy/BiliPai](https://github.com/jay3-yy/BiliPai)
+5. 🗣 Commented on [#202](https://github.com/ChinaGodMan/UserScripts/issues/202#issuecomment-4011327724) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
+6. 🗣 Commented on [#210](https://github.com/ChinaGodMan/UserScripts/issues/210#issuecomment-4011324977) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
+7. 🔒 Closed issue [#237](https://github.com/ChinaGodMan/UserScripts/issues/237) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
+8. 🔒 Closed issue [#204](https://github.com/ChinaGodMan/UserScripts/issues/204) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
+9. 🔒 Closed issue [#196](https://github.com/ChinaGodMan/UserScripts/issues/196) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
+10. 🔒 Closed issue [#207](https://github.com/ChinaGodMan/UserScripts/issues/207) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
 <!--END_SECTION:activity-->
 
 ---
