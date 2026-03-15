@@ -209,18 +209,18 @@ Batchfile                1 repo              █░░░░░░░░░░�
       <a href="https://github.com/NekoMirra">NekoMirra</a>
     </td>
     <td align="center">
-      <a href="https://github.com/rong-xiaoli">
-        <img src="https://avatars2.githubusercontent.com/u/58361774" width="100px;" alt="rong-xiaoli"/>
-      </a>
-      <br />
-      <a href="https://github.com/rong-xiaoli">容小狸</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/makoMakoGo">
         <img src="https://avatars2.githubusercontent.com/u/48956204" width="100px;" alt="makoMakoGo"/>
       </a>
       <br />
       <a href="https://github.com/makoMakoGo">makoMakoGo</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/rong-xiaoli">
+        <img src="https://avatars2.githubusercontent.com/u/58361774" width="100px;" alt="rong-xiaoli"/>
+      </a>
+      <br />
+      <a href="https://github.com/rong-xiaoli">容小狸</a>
     </td>
     <td align="center">
       <a href="https://github.com/Tangent-90C">
@@ -237,21 +237,12 @@ Batchfile                1 repo              █░░░░░░░░░░�
       <a href="https://github.com/ILoveScratch2">ILoveScratch</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Scorpion-Z">
-        <img src="https://avatars2.githubusercontent.com/u/50398388" width="100px;" alt="Scorpion-Z"/>
-      </a>
-      <br />
-      <a href="https://github.com/Scorpion-Z">Scorpion-Z</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/fonzi">
         <img src="https://avatars2.githubusercontent.com/u/626330" width="100px;" alt="fonzi"/>
       </a>
       <br />
       <a href="https://github.com/fonzi">Alfonso Vazquez</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/0xBADBAC0N">
         <img src="https://avatars2.githubusercontent.com/u/24916828" width="100px;" alt="0xBADBAC0N"/>
@@ -259,6 +250,8 @@ Batchfile                1 repo              █░░░░░░░░░░�
       <br />
       <a href="https://github.com/0xBADBAC0N">0xBADBAC0N</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/shemc">
         <img src="https://avatars2.githubusercontent.com/u/44460073" width="100px;" alt="shemc"/>
@@ -301,8 +294,6 @@ Batchfile                1 repo              █░░░░░░░░░░�
       <br />
       <a href="https://github.com/Silicon7921">CorePomelo</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/loooooon">
         <img src="https://avatars2.githubusercontent.com/u/63585249" width="100px;" alt="loooooon"/>
@@ -310,6 +301,8 @@ Batchfile                1 repo              █░░░░░░░░░░�
       <br />
       <a href="https://github.com/loooooon">loooooon</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/RusianHu">
         <img src="https://avatars2.githubusercontent.com/u/42626387" width="100px;" alt="RusianHu"/>
