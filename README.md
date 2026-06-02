@@ -263,12 +263,21 @@ Batchfile                1 repo              █░░░░░░░░░░�
       <a href="https://github.com/fjqz177">fjqz177</a>
     </td>
     <td align="center">
+      <a href="https://github.com/zyztek">
+        <img src="https://avatars2.githubusercontent.com/u/12541299" width="100px;" alt="zyztek"/>
+      </a>
+      <br />
+      <a href="https://github.com/zyztek">David Enrique Zayas Piña</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/ILoveScratch2">
         <img src="https://avatars2.githubusercontent.com/u/161606492" width="100px;" alt="ILoveScratch2"/>
       </a>
       <br />
       <a href="https://github.com/ILoveScratch2">ILoveScratch</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Tangent-90C">
         <img src="https://avatars2.githubusercontent.com/u/28804414" width="100px;" alt="Tangent-90C"/>
@@ -276,8 +285,6 @@ Batchfile                1 repo              █░░░░░░░░░░�
       <br />
       <a href="https://github.com/Tangent-90C">tan90º</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/rong-xiaoli">
         <img src="https://avatars2.githubusercontent.com/u/58361774" width="100px;" alt="rong-xiaoli"/>
@@ -320,6 +327,8 @@ Batchfile                1 repo              █░░░░░░░░░░�
       <br />
       <a href="https://github.com/Scorpion-Z">Scorpion-Z</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Fa-ce">
         <img src="https://avatars2.githubusercontent.com/u/61895799" width="100px;" alt="Fa-ce"/>
@@ -327,21 +336,19 @@ Batchfile                1 repo              █░░░░░░░░░░�
       <br />
       <a href="https://github.com/Fa-ce">project</a>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Ieooo">
-        <img src="https://avatars2.githubusercontent.com/u/47620466" width="100px;" alt="Ieooo"/>
-      </a>
-      <br />
-      <a href="https://github.com/Ieooo">leo</a>
-    </td>
     <td align="center">
       <a href="https://github.com/systemoutprintlnhelloworld">
         <img src="https://avatars2.githubusercontent.com/u/62531937" width="100px;" alt="systemoutprintlnhelloworld"/>
       </a>
       <br />
       <a href="https://github.com/systemoutprintlnhelloworld">systemoutprintlnhelloworld</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Ieooo">
+        <img src="https://avatars2.githubusercontent.com/u/47620466" width="100px;" alt="Ieooo"/>
+      </a>
+      <br />
+      <a href="https://github.com/Ieooo">leo</a>
     </td>
     <td align="center">
       <a href="https://github.com/sageneox">
@@ -370,13 +377,6 @@ Batchfile                1 repo              █░░░░░░░░░░�
       </a>
       <br />
       <a href="https://github.com/zhiqiangme">希巴拉克</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/vivvek99">
-        <img src="https://avatars2.githubusercontent.com/u/87365953" width="100px;" alt="vivvek99"/>
-      </a>
-      <br />
-      <a href="https://github.com/vivvek99">Viv</a>
     </td>
   </tr>
 </table>
