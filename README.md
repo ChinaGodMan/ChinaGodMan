@@ -96,7 +96,7 @@ Hi there<!--小手来源https://github.com/mayhemantt/mayhemantt/blob/master/REA
 - [music](https://github.com/ChinaGodMan/music) - ⭐ 0 - 备份手机上的音乐列表！😎
 - [shellhere-powershell](https://github.com/ChinaGodMan/shellhere-powershell) - ⭐ 0 - VSCode修改插件
 - [tampermonkey-scripts](https://github.com/ChinaGodMan/tampermonkey-scripts) - ⭐ 0 - No Description
-- [UserScripts](https://github.com/ChinaGodMan/UserScripts) - ⭐ 1780 - 🐒一些修改自网络的油猴脚本 Some Tampermonkey scripts modified from the internet
+- [UserScripts](https://github.com/ChinaGodMan/UserScripts) - ⭐ 1783 - 🐒一些修改自网络的油猴脚本 Some Tampermonkey scripts modified from the internet
 - [UserScripts-Epineph](https://github.com/ChinaGodMan/UserScripts-Epineph) - ⭐ 0 - No Description
 - [UserScriptsHistory](https://github.com/ChinaGodMan/UserScriptsHistory) - ⭐ 7 - :trollface: 用于存放各种资源文件，各种乱七八糟的东西
 - [wallpaper](https://github.com/ChinaGodMan/wallpaper) - ⭐ 0 - 收藏夹
