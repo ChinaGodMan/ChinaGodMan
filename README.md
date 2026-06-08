@@ -107,11 +107,11 @@ Hi there<!--小手来源https://github.com/mayhemantt/mayhemantt/blob/master/REA
  
 ### :zap: Recent commit
 <!-- START gadpp -->
+- ChinaGodMan/git-pwsh: [refs/heads/main@f54863bdb9d553575a890a85cc08497fc250b0bd](https://github.com/ChinaGodMan/git-pwsh/commit/f54863bdb9d553575a890a85cc08497fc250b0bd) - docs:  :octocat: 更新文件
+- ChinaGodMan/gitlens-zh-CN: [refs/heads/main@248241d27e5ee76ed43927f22fb5e5fcc0b81ca7](https://github.com/ChinaGodMan/gitlens-zh-CN/commit/248241d27e5ee76ed43927f22fb5e5fcc0b81ca7) - ci(release): 对资产标签进行发布
 - ChinaGodMan/github-updater: [refs/heads/main@3ee9452e2dac8f4eeca5e676d3a0db1a186ce6ee](https://github.com/ChinaGodMan/github-updater/commit/3ee9452e2dac8f4eeca5e676d3a0db1a186ce6ee) - feat: 🎸 添加 GitHub Actions 工作流自动生成和发布变更日志
 - ChinaGodMan/UserScripts: [refs/heads/main@f2060e6fa4243b8c6543675da8ad932aaa723c40](https://github.com/ChinaGodMan/UserScripts/commit/f2060e6fa4243b8c6543675da8ad932aaa723c40) - docs(sync): 🤖 同步 [`README_[lang].md`]
 - ChinaGodMan/UserScripts: [refs/heads/main@457a4afb1e28fd2c0728c1b2fd9b077e4d1960a7](https://github.com/ChinaGodMan/UserScripts/commit/457a4afb1e28fd2c0728c1b2fd9b077e4d1960a7) - ci(link): 从 https://github.com/adamlui/ai-web-extensions/blob/main/.github/workflows/validate-links-on-push-pr.yml 复制
-- ChinaGodMan/UserScripts: [refs/heads/main@ea5ffa099d0c24a233d16a60e908d9e4273e0cc8](https://github.com/ChinaGodMan/UserScripts/commit/ea5ffa099d0c24a233d16a60e908d9e4273e0cc8) - chore(deps-dev): bump lint-staged from 17.0.5 to 17.0.7 (#300)
-- ChinaGodMan/UserScripts: [refs/heads/main@b810f4dc976cc3184193c884531a3d2a3e24bd8a](https://github.com/ChinaGodMan/UserScripts/commit/b810f4dc976cc3184193c884531a3d2a3e24bd8a) - chore(deps-dev): bump eslint-plugin-yml from 3.3.2 to 3.4.0 (#299)
 <!-- END gadpp -->
 
 ---
