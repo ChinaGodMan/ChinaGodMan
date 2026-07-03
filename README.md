@@ -249,18 +249,18 @@ Batchfile                1 repo              █░░░░░░░░░░�
       <a href="https://github.com/makoMakoGo">makoMakoGo</a>
     </td>
     <td align="center">
-      <a href="https://github.com/NekoMirra">
-        <img src="https://avatars2.githubusercontent.com/u/48759390" width="100px;" alt="NekoMirra"/>
-      </a>
-      <br />
-      <a href="https://github.com/NekoMirra">NekoMirra</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/fjqz177">
         <img src="https://avatars2.githubusercontent.com/u/83070583" width="100px;" alt="fjqz177"/>
       </a>
       <br />
       <a href="https://github.com/fjqz177">fjqz177</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/NekoMirra">
+        <img src="https://avatars2.githubusercontent.com/u/48759390" width="100px;" alt="NekoMirra"/>
+      </a>
+      <br />
+      <a href="https://github.com/NekoMirra">NekoMirra</a>
     </td>
     <td align="center">
       <a href="https://github.com/Tangent-90C">
