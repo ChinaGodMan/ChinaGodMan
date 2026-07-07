@@ -314,12 +314,21 @@ Batchfile                1 repo              █░░░░░░░░░░�
       <a href="https://github.com/0xBADBAC0N">0xBADBAC0N</a>
     </td>
     <td align="center">
+      <a href="https://github.com/TKMYing">
+        <img src="https://avatars2.githubusercontent.com/u/31034890" width="100px;" alt="TKMYing"/>
+      </a>
+      <br />
+      <a href="https://github.com/TKMYing">Tsukimi_Ying</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/abc202306">
         <img src="https://avatars2.githubusercontent.com/u/135524584" width="100px;" alt="abc202306"/>
       </a>
       <br />
       <a href="https://github.com/abc202306">Librarian EW</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/TheLouisXD">
         <img src="https://avatars2.githubusercontent.com/u/106026658" width="100px;" alt="TheLouisXD"/>
@@ -327,8 +336,6 @@ Batchfile                1 repo              █░░░░░░░░░░�
       <br />
       <a href="https://github.com/TheLouisXD">Luis J.</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Fa-ce">
         <img src="https://avatars2.githubusercontent.com/u/61895799" width="100px;" alt="Fa-ce"/>
@@ -370,13 +377,6 @@ Batchfile                1 repo              █░░░░░░░░░░�
       </a>
       <br />
       <a href="https://github.com/C-4-C-4">C4</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/zhiqiangme">
-        <img src="https://avatars2.githubusercontent.com/u/90136554" width="100px;" alt="zhiqiangme"/>
-      </a>
-      <br />
-      <a href="https://github.com/zhiqiangme">希巴拉克</a>
     </td>
   </tr>
 </table>
