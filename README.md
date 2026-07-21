@@ -279,6 +279,13 @@ Batchfile                1 repo              █░░░░░░░░░░�
   </tr>
   <tr>
     <td align="center">
+      <a href="https://github.com/NikkeTryHard">
+        <img src="https://avatars2.githubusercontent.com/u/111729769" width="100px;" alt="NikkeTryHard"/>
+      </a>
+      <br />
+      <a href="https://github.com/NikkeTryHard">Louie</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/rong-xiaoli">
         <img src="https://avatars2.githubusercontent.com/u/58361774" width="100px;" alt="rong-xiaoli"/>
       </a>
@@ -320,6 +327,8 @@ Batchfile                1 repo              █░░░░░░░░░░�
       <br />
       <a href="https://github.com/Scorpion-Z">Scorpion-Z</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/abc202306">
         <img src="https://avatars2.githubusercontent.com/u/135524584" width="100px;" alt="abc202306"/>
@@ -327,14 +336,19 @@ Batchfile                1 repo              █░░░░░░░░░░�
       <br />
       <a href="https://github.com/abc202306">Librarian EW</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/TheLouisXD">
         <img src="https://avatars2.githubusercontent.com/u/106026658" width="100px;" alt="TheLouisXD"/>
       </a>
       <br />
       <a href="https://github.com/TheLouisXD">Luis J.</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/systemoutprintlnhelloworld">
+        <img src="https://avatars2.githubusercontent.com/u/62531937" width="100px;" alt="systemoutprintlnhelloworld"/>
+      </a>
+      <br />
+      <a href="https://github.com/systemoutprintlnhelloworld">systemoutprintlnhelloworld</a>
     </td>
     <td align="center">
       <a href="https://github.com/Ieooo">
@@ -351,13 +365,6 @@ Batchfile                1 repo              █░░░░░░░░░░�
       <a href="https://github.com/Fa-ce">project</a>
     </td>
     <td align="center">
-      <a href="https://github.com/systemoutprintlnhelloworld">
-        <img src="https://avatars2.githubusercontent.com/u/62531937" width="100px;" alt="systemoutprintlnhelloworld"/>
-      </a>
-      <br />
-      <a href="https://github.com/systemoutprintlnhelloworld">systemoutprintlnhelloworld</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/roigoatzzz">
         <img src="https://avatars2.githubusercontent.com/u/116238845" width="100px;" alt="roigoatzzz"/>
       </a>
@@ -370,13 +377,6 @@ Batchfile                1 repo              █░░░░░░░░░░�
       </a>
       <br />
       <a href="https://github.com/C-4-C-4">C4</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/sageneox">
-        <img src="https://avatars2.githubusercontent.com/u/245347686" width="100px;" alt="sageneox"/>
-      </a>
-      <br />
-      <a href="https://github.com/sageneox">neo</a>
     </td>
   </tr>
 </table>
