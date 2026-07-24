@@ -107,11 +107,11 @@ Hi there<!--小手来源https://github.com/mayhemantt/mayhemantt/blob/master/REA
  
 ### :zap: Recent commit
 <!-- START gadpp -->
+- ChinaGodMan/gitlens-zh-CN: [refs/heads/main@248241d27e5ee76ed43927f22fb5e5fcc0b81ca7](https://github.com/ChinaGodMan/gitlens-zh-CN/commit/248241d27e5ee76ed43927f22fb5e5fcc0b81ca7) - ci(release): 对资产标签进行发布
+- ChinaGodMan/UserScripts: [refs/heads/main@1372bb4e782378266d3496b00af9a800c73a067b](https://github.com/ChinaGodMan/UserScripts/commit/1372bb4e782378266d3496b00af9a800c73a067b) - chore(deps): bump JustinBeckwith/linkinator-action from 2.4.3 to 2.4.4 (#324)
 - ChinaGodMan/github-updater: [refs/heads/main@3ee9452e2dac8f4eeca5e676d3a0db1a186ce6ee](https://github.com/ChinaGodMan/github-updater/commit/3ee9452e2dac8f4eeca5e676d3a0db1a186ce6ee) - feat: 🎸 添加 GitHub Actions 工作流自动生成和发布变更日志
 - ChinaGodMan/UserScripts: [refs/heads/main@e43cebd9c266a2795946c7fef2b64eda7609d637](https://github.com/ChinaGodMan/UserScripts/commit/e43cebd9c266a2795946c7fef2b64eda7609d637) - chore(deps-dev): bump lint-staged from 17.1.0 to 17.1.1 (#323)
 - ChinaGodMan/UserScripts: [refs/heads/main@65816db5981df38e922d84322ad6f756efa270bb](https://github.com/ChinaGodMan/UserScripts/commit/65816db5981df38e922d84322ad6f756efa270bb) - chore(deps-dev): bump prettier from 3.9.5 to 3.9.6 (#321)
-- ChinaGodMan/UserScripts: [refs/heads/main@465170adbd4f21e2c05b0e88ae71bc0d970c73c8](https://github.com/ChinaGodMan/UserScripts/commit/465170adbd4f21e2c05b0e88ae71bc0d970c73c8) - chore(deps-dev): bump lint-staged from 17.0.8 to 17.1.0 (#320)
-- ChinaGodMan/git-pwsh: [refs/heads/main@f54863bdb9d553575a890a85cc08497fc250b0bd](https://github.com/ChinaGodMan/git-pwsh/commit/f54863bdb9d553575a890a85cc08497fc250b0bd) - docs:  :octocat: 更新文件
 <!-- END gadpp -->
 
 ---
