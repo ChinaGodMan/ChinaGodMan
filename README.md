@@ -194,19 +194,17 @@ Sunday                   3106 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-PowerShell               31 mins             ████████████░░░░░░░░░░░░░   46.08 % 
-Python                   25 mins             █████████░░░░░░░░░░░░░░░░   37.46 % 
-Text                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
-YAML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+PowerShell               31 mins             ████████████░░░░░░░░░░░░░   47.21 % 
+Python                   25 mins             █████████░░░░░░░░░░░░░░░░   37.54 % 
+Text                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+YAML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 
 🔥 Editors: 
-VS Code                  1 hr 7 mins         ████████████████████████░   97.59 % 
-Acode                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+VS Code                  1 hr 7 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 7 mins         ████████████████████████░   97.59 % 
-Android                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+Windows                  1 hr 7 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -228,7 +226,7 @@ Batchfile                1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/08/2026 10:29:27 UTC
+ Last Updated on 09/08/2026 22:28:30 UTC
 <!--END_SECTION:waka-->
 
 ---
