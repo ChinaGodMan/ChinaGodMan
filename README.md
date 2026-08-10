@@ -194,17 +194,17 @@ Sunday                   3106 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-PowerShell               31 mins             ████████████░░░░░░░░░░░░░   47.21 % 
-Python                   25 mins             █████████░░░░░░░░░░░░░░░░   37.54 % 
-Text                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
-YAML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+PowerShell               31 mins             ██████████████████░░░░░░░   71.57 % 
+Text                     6 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+Python                   4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+reg                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
 
 🔥 Editors: 
-VS Code                  1 hr 7 mins         █████████████████████████   100.00 % 
+VS Code                  44 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 7 mins         █████████████████████████   100.00 % 
+Windows                  44 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -226,7 +226,7 @@ Batchfile                1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/08/2026 11:05:58 UTC
+ Last Updated on 10/08/2026 22:36:06 UTC
 <!--END_SECTION:waka-->
 
 ---
