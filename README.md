@@ -269,18 +269,18 @@ Batchfile                1 repo              █░░░░░░░░░░�
       <a href="https://github.com/fjqz177">fjqz177</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ILoveScratch2">
-        <img src="https://avatars2.githubusercontent.com/u/161606492" width="100px;" alt="ILoveScratch2"/>
-      </a>
-      <br />
-      <a href="https://github.com/ILoveScratch2">ILoveScratch</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Tangent-90C">
         <img src="https://avatars2.githubusercontent.com/u/28804414" width="100px;" alt="Tangent-90C"/>
       </a>
       <br />
       <a href="https://github.com/Tangent-90C">tan90º</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ILoveScratch2">
+        <img src="https://avatars2.githubusercontent.com/u/161606492" width="100px;" alt="ILoveScratch2"/>
+      </a>
+      <br />
+      <a href="https://github.com/ILoveScratch2">ILoveScratch</a>
     </td>
   </tr>
   <tr>
@@ -290,6 +290,13 @@ Batchfile                1 repo              █░░░░░░░░░░�
       </a>
       <br />
       <a href="https://github.com/NikkeTryHard">Louie</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Scorpion-Z">
+        <img src="https://avatars2.githubusercontent.com/u/50398388" width="100px;" alt="Scorpion-Z"/>
+      </a>
+      <br />
+      <a href="https://github.com/Scorpion-Z">Scorpion-Z</a>
     </td>
     <td align="center">
       <a href="https://github.com/rong-xiaoli">
@@ -311,13 +318,6 @@ Batchfile                1 repo              █░░░░░░░░░░�
       </a>
       <br />
       <a href="https://github.com/fonzi">Alfonso Vazquez</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Scorpion-Z">
-        <img src="https://avatars2.githubusercontent.com/u/50398388" width="100px;" alt="Scorpion-Z"/>
-      </a>
-      <br />
-      <a href="https://github.com/Scorpion-Z">Scorpion-Z</a>
     </td>
     <td align="center">
       <a href="https://github.com/TKMYing">
