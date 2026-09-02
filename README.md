@@ -108,11 +108,11 @@ Hi there<!--小手来源https://github.com/mayhemantt/mayhemantt/blob/master/REA
  
 ### :zap: Recent commit
 <!-- START gadpp -->
+- ChinaGodMan/git-pwsh: [refs/heads/main@f54863bdb9d553575a890a85cc08497fc250b0bd](https://github.com/ChinaGodMan/git-pwsh/commit/f54863bdb9d553575a890a85cc08497fc250b0bd) - docs:  :octocat: 更新文件
+- ChinaGodMan/UserScripts: [refs/heads/main@6c797412624b446d8165fc5222d44292645bfcda](https://github.com/ChinaGodMan/UserScripts/commit/6c797412624b446d8165fc5222d44292645bfcda) - chore(deps): bump JustinBeckwith/linkinator-action from 2.4.5 to 2.5.0 (#344)
 - ChinaGodMan/UserScripts: [refs/heads/main@f308378cd69d724abecb54075d4df73e22ecaf36](https://github.com/ChinaGodMan/UserScripts/commit/f308378cd69d724abecb54075d4df73e22ecaf36) - chore(deps-dev): bump lint-staged from 17.3.0 to 17.4.1 (#343)
 - ChinaGodMan/gitlens-zh-CN: [refs/heads/main@248241d27e5ee76ed43927f22fb5e5fcc0b81ca7](https://github.com/ChinaGodMan/gitlens-zh-CN/commit/248241d27e5ee76ed43927f22fb5e5fcc0b81ca7) - ci(release): 对资产标签进行发布
 - ChinaGodMan/github-updater: [refs/heads/main@3ee9452e2dac8f4eeca5e676d3a0db1a186ce6ee](https://github.com/ChinaGodMan/github-updater/commit/3ee9452e2dac8f4eeca5e676d3a0db1a186ce6ee) - feat: 🎸 添加 GitHub Actions 工作流自动生成和发布变更日志
-- ChinaGodMan/UserScripts: [refs/heads/main@e6740f950b0a984ec652f61d87ca9962d3afaf17](https://github.com/ChinaGodMan/UserScripts/commit/e6740f950b0a984ec652f61d87ca9962d3afaf17) - chore(deps-dev): bump cz-git from 1.13.2 to 1.14.0 (#342)
-- ChinaGodMan/UserScripts: [refs/heads/main@1bb50622efff48f8aa8aee1daac093eb1018d591](https://github.com/ChinaGodMan/UserScripts/commit/1bb50622efff48f8aa8aee1daac093eb1018d591) - chore(deps-dev): bump eslint-plugin-regexp from 3.1.1 to 3.2.0 (#338)
 <!-- END gadpp -->
 
 ---
