@@ -256,6 +256,13 @@ Batchfile                1 repo              █░░░░░░░░░░�
       <a href="https://github.com/makoMakoGo">makoMakoGo</a>
     </td>
     <td align="center">
+      <a href="https://github.com/lovexmm521">
+        <img src="https://avatars2.githubusercontent.com/u/101982099" width="100px;" alt="lovexmm521"/>
+      </a>
+      <br />
+      <a href="https://github.com/lovexmm521">Stellar-Sea</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/NekoMirra">
         <img src="https://avatars2.githubusercontent.com/u/48759390" width="100px;" alt="NekoMirra"/>
       </a>
@@ -276,6 +283,8 @@ Batchfile                1 repo              █░░░░░░░░░░�
       <br />
       <a href="https://github.com/ILoveScratch2">ILoveScratch</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Tangent-90C">
         <img src="https://avatars2.githubusercontent.com/u/28804414" width="100px;" alt="Tangent-90C"/>
@@ -283,8 +292,6 @@ Batchfile                1 repo              █░░░░░░░░░░�
       <br />
       <a href="https://github.com/Tangent-90C">tan90º</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/NikkeTryHard">
         <img src="https://avatars2.githubusercontent.com/u/111729769" width="100px;" alt="NikkeTryHard"/>
@@ -312,13 +319,6 @@ Batchfile                1 repo              █░░░░░░░░░░�
       </a>
       <br />
       <a href="https://github.com/fonzi">Alfonso Vazquez</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/TKMYing">
-        <img src="https://avatars2.githubusercontent.com/u/31034890" width="100px;" alt="TKMYing"/>
-      </a>
-      <br />
-      <a href="https://github.com/TKMYing">Tsukimi_Ying</a>
     </td>
     <td align="center">
       <a href="https://github.com/0xBADBAC0N">
