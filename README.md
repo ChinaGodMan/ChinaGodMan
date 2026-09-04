@@ -293,6 +293,13 @@ Batchfile                1 repo              █░░░░░░░░░░�
       <a href="https://github.com/Tangent-90C">tan90º</a>
     </td>
     <td align="center">
+      <a href="https://github.com/zyztek">
+        <img src="https://avatars2.githubusercontent.com/u/12541299" width="100px;" alt="zyztek"/>
+      </a>
+      <br />
+      <a href="https://github.com/zyztek">David Enrique Zayas Piña</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/NikkeTryHard">
         <img src="https://avatars2.githubusercontent.com/u/111729769" width="100px;" alt="NikkeTryHard"/>
       </a>
@@ -327,6 +334,8 @@ Batchfile                1 repo              █░░░░░░░░░░�
       <br />
       <a href="https://github.com/0xBADBAC0N">0xBADBAC0N</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/abc202306">
         <img src="https://avatars2.githubusercontent.com/u/135524584" width="100px;" alt="abc202306"/>
@@ -334,8 +343,6 @@ Batchfile                1 repo              █░░░░░░░░░░�
       <br />
       <a href="https://github.com/abc202306">Librarian EW</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/TheLouisXD">
         <img src="https://avatars2.githubusercontent.com/u/106026658" width="100px;" alt="TheLouisXD"/>
@@ -377,13 +384,6 @@ Batchfile                1 repo              █░░░░░░░░░░�
       </a>
       <br />
       <a href="https://github.com/C-4-C-4">C4</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/roigoatzzz">
-        <img src="https://avatars2.githubusercontent.com/u/116238845" width="100px;" alt="roigoatzzz"/>
-      </a>
-      <br />
-      <a href="https://github.com/roigoatzzz">viveroi</a>
     </td>
   </tr>
 </table>
