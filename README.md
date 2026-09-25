@@ -234,13 +234,6 @@ Batchfile                1 repo              █░░░░░░░░░░�
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/JohnMwendwa">
-        <img src="https://avatars2.githubusercontent.com/u/72663882" width="100px;" alt="JohnMwendwa"/>
-      </a>
-      <br />
-      <a href="https://github.com/JohnMwendwa">John Mwendwa</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/elite-mob">
         <img src="https://avatars2.githubusercontent.com/u/22513107" width="100px;" alt="elite-mob"/>
       </a>
@@ -282,8 +275,6 @@ Batchfile                1 repo              █░░░░░░░░░░�
       <br />
       <a href="https://github.com/Tangent-90C">tan90º</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/ILoveScratch2">
         <img src="https://avatars2.githubusercontent.com/u/161606492" width="100px;" alt="ILoveScratch2"/>
@@ -291,6 +282,8 @@ Batchfile                1 repo              █░░░░░░░░░░�
       <br />
       <a href="https://github.com/ILoveScratch2">ILoveScratch</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/zyztek">
         <img src="https://avatars2.githubusercontent.com/u/12541299" width="100px;" alt="zyztek"/>
@@ -333,8 +326,6 @@ Batchfile                1 repo              █░░░░░░░░░░�
       <br />
       <a href="https://github.com/0xBADBAC0N">0xBADBAC0N</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/systemoutprintlnhelloworld">
         <img src="https://avatars2.githubusercontent.com/u/62531937" width="100px;" alt="systemoutprintlnhelloworld"/>
@@ -342,6 +333,8 @@ Batchfile                1 repo              █░░░░░░░░░░�
       <br />
       <a href="https://github.com/systemoutprintlnhelloworld">systemoutprintlnhelloworld</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/abc202306">
         <img src="https://avatars2.githubusercontent.com/u/135524584" width="100px;" alt="abc202306"/>
@@ -383,6 +376,13 @@ Batchfile                1 repo              █░░░░░░░░░░�
       </a>
       <br />
       <a href="https://github.com/roigoatzzz">viveroi</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/C-4-C-4">
+        <img src="https://avatars2.githubusercontent.com/u/147143261" width="100px;" alt="C-4-C-4"/>
+      </a>
+      <br />
+      <a href="https://github.com/C-4-C-4">C4</a>
     </td>
   </tr>
 </table>
