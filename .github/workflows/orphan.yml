@@ -1,0 +1,26 @@
+name: orphan
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 25 * *"
+
+jobs:
+  check-size-and-reset:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Config committer
+        run: |
+          git config --global user.name "ChinaGodBot"
+          git config --global user.email "chinagodman1@gmail.com"
+
+      - name: 万物归零
+        run: |
+          git checkout --orphan temp-branch
+          git commit --allow-empty -m ":trollface: 归零"
+          git push origin temp-branch:main --force
