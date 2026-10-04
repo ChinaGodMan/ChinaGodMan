@@ -269,18 +269,18 @@ Batchfile                1 repo              █░░░░░░░░░░�
       <a href="https://github.com/fjqz177">fjqz177</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Tangent-90C">
-        <img src="https://avatars2.githubusercontent.com/u/28804414" width="100px;" alt="Tangent-90C"/>
-      </a>
-      <br />
-      <a href="https://github.com/Tangent-90C">tan90º</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/ILoveScratch2">
         <img src="https://avatars2.githubusercontent.com/u/161606492" width="100px;" alt="ILoveScratch2"/>
       </a>
       <br />
       <a href="https://github.com/ILoveScratch2">ILoveScratch</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Tangent-90C">
+        <img src="https://avatars2.githubusercontent.com/u/28804414" width="100px;" alt="Tangent-90C"/>
+      </a>
+      <br />
+      <a href="https://github.com/Tangent-90C">tan90º</a>
     </td>
   </tr>
   <tr>
@@ -350,6 +350,13 @@ Batchfile                1 repo              █░░░░░░░░░░�
       <a href="https://github.com/Scorpion-Z">Scorpion-Z</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Fa-ce">
+        <img src="https://avatars2.githubusercontent.com/u/61895799" width="100px;" alt="Fa-ce"/>
+      </a>
+      <br />
+      <a href="https://github.com/Fa-ce">project</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/systemoutprintlnhelloworld">
         <img src="https://avatars2.githubusercontent.com/u/62531937" width="100px;" alt="systemoutprintlnhelloworld"/>
       </a>
@@ -369,13 +376,6 @@ Batchfile                1 repo              █░░░░░░░░░░�
       </a>
       <br />
       <a href="https://github.com/Ieooo">leo</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Fa-ce">
-        <img src="https://avatars2.githubusercontent.com/u/61895799" width="100px;" alt="Fa-ce"/>
-      </a>
-      <br />
-      <a href="https://github.com/Fa-ce">project</a>
     </td>
     <td align="center">
       <a href="https://github.com/C-4-C-4">
