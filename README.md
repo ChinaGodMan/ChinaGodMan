@@ -350,14 +350,7 @@ Batchfile                1 repo              █░░░░░░░░░░�
         <img src="https://avatars2.githubusercontent.com/u/116238845" width="100px;" alt="roigoatzzz"/>
       </a>
       <br />
-      <a href="https://github.com/roigoatzzz">viveroi</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/abc202306">
-        <img src="https://avatars2.githubusercontent.com/u/135524584" width="100px;" alt="abc202306"/>
-      </a>
-      <br />
-      <a href="https://github.com/abc202306">Librarian EW</a>
+      <a href="https://github.com/roigoatzzz">Noa Gayibor</a>
     </td>
     <td align="center">
       <a href="https://github.com/Scorpion-Z">
@@ -372,6 +365,13 @@ Batchfile                1 repo              █░░░░░░░░░░�
       </a>
       <br />
       <a href="https://github.com/systemoutprintlnhelloworld">systemoutprintlnhelloworld</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/abc202306">
+        <img src="https://avatars2.githubusercontent.com/u/135524584" width="100px;" alt="abc202306"/>
+      </a>
+      <br />
+      <a href="https://github.com/abc202306">Librarian EW</a>
     </td>
     <td align="center">
       <a href="https://github.com/TheLouisXD">
