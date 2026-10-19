@@ -309,13 +309,6 @@ Batchfile                1 repo              █░░░░░░░░░░�
       <a href="https://github.com/rong-xiaoli">容小狸</a>
     </td>
     <td align="center">
-      <a href="https://github.com/gqdsc">
-        <img src="https://avatars2.githubusercontent.com/u/10277506" width="100px;" alt="gqdsc"/>
-      </a>
-      <br />
-      <a href="https://github.com/gqdsc">DragonCoder</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/fonzi">
         <img src="https://avatars2.githubusercontent.com/u/626330" width="100px;" alt="fonzi"/>
       </a>
@@ -336,8 +329,6 @@ Batchfile                1 repo              █░░░░░░░░░░�
       <br />
       <a href="https://github.com/0xBADBAC0N">0xBADBAC0N</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/C-4-C-4">
         <img src="https://avatars2.githubusercontent.com/u/147143261" width="100px;" alt="C-4-C-4"/>
@@ -345,6 +336,8 @@ Batchfile                1 repo              █░░░░░░░░░░�
       <br />
       <a href="https://github.com/C-4-C-4">C4</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/roigoatzzz">
         <img src="https://avatars2.githubusercontent.com/u/116238845" width="100px;" alt="roigoatzzz"/>
@@ -386,6 +379,13 @@ Batchfile                1 repo              █░░░░░░░░░░�
       </a>
       <br />
       <a href="https://github.com/Ieooo">leo</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/sageneox">
+        <img src="https://avatars2.githubusercontent.com/u/245347686" width="100px;" alt="sageneox"/>
+      </a>
+      <br />
+      <a href="https://github.com/sageneox">neo</a>
     </td>
   </tr>
 </table>
