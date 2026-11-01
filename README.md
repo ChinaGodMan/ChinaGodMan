@@ -194,14 +194,17 @@ Sunday                   3456 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 5 mins        ████████████████████░░░░░   81.84 % 
-Text                     27 mins             █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
+Python                   2 hrs 5 mins        ████████████████████░░░░░   78.23 % 
+Text                     27 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
+Windows Registry Entries 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🔥 Editors: 
-Acode                    2 hrs 33 mins       █████████████████████████   100.00 % 
+Acode                    2 hrs 40 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Android                  2 hrs 33 mins       █████████████████████████   100.00 % 
+Android                  2 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -223,7 +226,7 @@ Batchfile                1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/10/2026 15:40:21 UTC
+ Last Updated on 01/11/2026 00:40:58 UTC
 <!--END_SECTION:waka-->
 
 ---
