@@ -119,16 +119,16 @@ Hi there<!--小手来源https://github.com/mayhemantt/mayhemantt/blob/master/REA
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#920](https://github.com/gurecn/YuyanIme/issues/920#issuecomment-6761348205) in [gurecn/YuyanIme](https://github.com/gurecn/YuyanIme)
-2. 🗣 Commented on [#365](https://github.com/ChinaGodMan/UserScripts/issues/365#issuecomment-6722343186) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
-3. 🗣 Commented on [#364](https://github.com/ChinaGodMan/UserScripts/pull/364#issuecomment-6722317495) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
-4. ℹ️ Labeled issue [#296](https://github.com/ch6vip/fqapp/issues/296) in [ch6vip/fqapp](https://github.com/ch6vip/fqapp)
-5. ❗ Opened issue [#296](https://github.com/ch6vip/fqapp/issues/296) in [ch6vip/fqapp](https://github.com/ch6vip/fqapp)
-6. 🗣 Commented on [#32](https://github.com/xigua222/photoo/issues/32#issuecomment-6320482185) in [xigua222/photoo](https://github.com/xigua222/photoo)
-7. 🗣 Commented on [#359](https://github.com/ChinaGodMan/UserScripts/pull/359#issuecomment-6306380407) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
-8. 🗣 Commented on [#297](https://github.com/ChinaGodMan/UserScripts/issues/297#issuecomment-4587112907) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
-9. 🗣 Commented on [#294](https://github.com/ChinaGodMan/UserScripts/issues/294#issuecomment-4494359202) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
-10. 🗣 Commented on [#292](https://github.com/ChinaGodMan/UserScripts/issues/292#issuecomment-4470842286) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
+1. 🗣 Commented on [#296](https://github.com/ch6vip/novel-sound/issues/296#issuecomment-6768532697) in [ch6vip/novel-sound](https://github.com/ch6vip/novel-sound)
+2. 🗣 Commented on [#296](https://github.com/ch6vip/novel-sound/issues/296#issuecomment-6769345492) in [ch6vip/novel-sound](https://github.com/ch6vip/novel-sound)
+3. 🔒 Closed issue [#296](https://github.com/ch6vip/novel-sound/issues/296) in [ch6vip/novel-sound](https://github.com/ch6vip/novel-sound)
+4. 🗣 Commented on [#296](https://github.com/ch6vip/novel-sound/issues/296#issuecomment-6768097636) in [ch6vip/novel-sound](https://github.com/ch6vip/novel-sound)
+5. ❗ Opened issue [#923](https://github.com/gurecn/YuyanIme/issues/923) in [gurecn/YuyanIme](https://github.com/gurecn/YuyanIme)
+6. ℹ️ Labeled issue [#923](https://github.com/gurecn/YuyanIme/issues/923) in [gurecn/YuyanIme](https://github.com/gurecn/YuyanIme)
+7. 🗣 Commented on [#920](https://github.com/gurecn/YuyanIme/issues/920#issuecomment-6761348205) in [gurecn/YuyanIme](https://github.com/gurecn/YuyanIme)
+8. 🗣 Commented on [#365](https://github.com/ChinaGodMan/UserScripts/issues/365#issuecomment-6722343186) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
+9. 🗣 Commented on [#364](https://github.com/ChinaGodMan/UserScripts/pull/364#issuecomment-6722317495) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
+10. ℹ️ Labeled issue [#296](https://github.com/ch6vip/novel-sound/issues/296) in [ch6vip/novel-sound](https://github.com/ch6vip/novel-sound)
 <!--END_SECTION:activity-->
 
 ---
