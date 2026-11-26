@@ -27,8 +27,10 @@ Hi there<!--小手来源https://github.com/mayhemantt/mayhemantt/blob/master/REA
 - :key: GPG key: [`30F74B7781A8D595`](https://github.com/ChinaGodMan.gpg)
 - 📫 Email: [china.qinwuyuan@gmail.com](mailto:china.qinwuyuan@gmail.com)
 - :haircut_man: About me: **Standing at the forefront of this remarkable era, I will continue to persevere and advance fearlessly, firmly uniting around the Party Central Committee with Comrade Xi Jinping at its core. I will closely align my personal growth with the development of my country. No matter how many challenges lie ahead, I will face them with a strong sense of responsibility and mission, striving relentlessly to realize the great rejuvenation of the Chinese nation. My youth will shine its brightest in the service of the people, the country, and the Party!**
-<p><em>Technical Lead at <a href="https://chatgpt.com/">ChatGPT</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> , <a href="https://claude.ai/">Claude</a> &amp; <a href="https://www.deepseek.com/">DeepSeek</a><br>
-<sub>Self-appointed. None of them signed off.</sub></em></p>
+
+<p><em>Technical Lead at <a href="https://chatgpt.com/">ChatGPT</a>, <a href="https://claude.ai/">Claude</a> &amp; <a href="https://www.deepseek.com/">DeepSeek</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
+<sub>:trollface: Self-appointed. None of them signed off.</sub></em></p>
+
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 <div align="center">
     <img src="images/RedSun.jpg" style="width: 400px; height: 250px;" />
