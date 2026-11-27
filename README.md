@@ -306,6 +306,13 @@ Batchfile                1 repo              █░░░░░░░░░░�
       <a href="https://github.com/rong-xiaoli">容小狸</a>
     </td>
     <td align="center">
+      <a href="https://github.com/gqdsc">
+        <img src="https://avatars2.githubusercontent.com/u/10277506" width="100px;" alt="gqdsc"/>
+      </a>
+      <br />
+      <a href="https://github.com/gqdsc">DragonCoder</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/fonzi">
         <img src="https://avatars2.githubusercontent.com/u/626330" width="100px;" alt="fonzi"/>
       </a>
@@ -333,6 +340,8 @@ Batchfile                1 repo              █░░░░░░░░░░�
       <br />
       <a href="https://github.com/Scorpion-Z">Scorpion-Z</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/abc202306">
         <img src="https://avatars2.githubusercontent.com/u/135524584" width="100px;" alt="abc202306"/>
@@ -340,21 +349,19 @@ Batchfile                1 repo              █░░░░░░░░░░�
       <br />
       <a href="https://github.com/abc202306">Librarian EW</a>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/C-4-C-4">
-        <img src="https://avatars2.githubusercontent.com/u/147143261" width="100px;" alt="C-4-C-4"/>
-      </a>
-      <br />
-      <a href="https://github.com/C-4-C-4">C4</a>
-    </td>
     <td align="center">
       <a href="https://github.com/TheLouisXD">
         <img src="https://avatars2.githubusercontent.com/u/106026658" width="100px;" alt="TheLouisXD"/>
       </a>
       <br />
       <a href="https://github.com/TheLouisXD">Luis J.</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/C-4-C-4">
+        <img src="https://avatars2.githubusercontent.com/u/147143261" width="100px;" alt="C-4-C-4"/>
+      </a>
+      <br />
+      <a href="https://github.com/C-4-C-4">C4</a>
     </td>
     <td align="center">
       <a href="https://github.com/roigoatzzz">
@@ -383,13 +390,6 @@ Batchfile                1 repo              █░░░░░░░░░░�
       </a>
       <br />
       <a href="https://github.com/sageneox">neo</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/xiexie2001">
-        <img src="https://avatars2.githubusercontent.com/u/73782799" width="100px;" alt="xiexie2001"/>
-      </a>
-      <br />
-      <a href="https://github.com/xiexie2001">XTQ</a>
     </td>
   </tr>
 </table>
