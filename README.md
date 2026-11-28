@@ -120,16 +120,16 @@ Hi there<!--小手来源https://github.com/mayhemantt/mayhemantt/blob/master/REA
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#401](https://github.com/bikram-agarwal/ObtainX/issues/401#issuecomment-7210439156) in [bikram-agarwal/ObtainX](https://github.com/bikram-agarwal/ObtainX)
-2. ❗ Opened issue [#401](https://github.com/bikram-agarwal/ObtainX/issues/401) in [bikram-agarwal/ObtainX](https://github.com/bikram-agarwal/ObtainX)
-3. 🗣 Commented on [#373](https://github.com/ChinaGodMan/UserScripts/pull/373#issuecomment-7127718542) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
-4. 🔓 Reopened issue [#372](https://github.com/ChinaGodMan/UserScripts/issues/372) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
-5. 🗣 Commented on [#372](https://github.com/ChinaGodMan/UserScripts/issues/372#issuecomment-7065706212) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
-6. 🗣 Commented on [#372](https://github.com/ChinaGodMan/UserScripts/issues/372#issuecomment-7065187911) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
-7. 🔒 Closed issue [#372](https://github.com/ChinaGodMan/UserScripts/issues/372) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
-8. 🗣 Commented on [#296](https://github.com/ch6vip/novel-sound/issues/296#issuecomment-6768532697) in [ch6vip/novel-sound](https://github.com/ch6vip/novel-sound)
-9. 🗣 Commented on [#296](https://github.com/ch6vip/novel-sound/issues/296#issuecomment-6769345492) in [ch6vip/novel-sound](https://github.com/ch6vip/novel-sound)
-10. 🔒 Closed issue [#296](https://github.com/ch6vip/novel-sound/issues/296) in [ch6vip/novel-sound](https://github.com/ch6vip/novel-sound)
+1. 🗣 Commented on [#401](https://github.com/bikram-agarwal/ObtainX/issues/401#issuecomment-7226690159) in [bikram-agarwal/ObtainX](https://github.com/bikram-agarwal/ObtainX)
+2. ❌ Closed PR [#375](https://github.com/ChinaGodMan/UserScripts/pull/375) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
+3. 🗣 Commented on [#401](https://github.com/bikram-agarwal/ObtainX/issues/401#issuecomment-7210439156) in [bikram-agarwal/ObtainX](https://github.com/bikram-agarwal/ObtainX)
+4. ❗ Opened issue [#401](https://github.com/bikram-agarwal/ObtainX/issues/401) in [bikram-agarwal/ObtainX](https://github.com/bikram-agarwal/ObtainX)
+5. 🗣 Commented on [#373](https://github.com/ChinaGodMan/UserScripts/pull/373#issuecomment-7127718542) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
+6. 🔓 Reopened issue [#372](https://github.com/ChinaGodMan/UserScripts/issues/372) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
+7. 🗣 Commented on [#372](https://github.com/ChinaGodMan/UserScripts/issues/372#issuecomment-7065706212) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
+8. 🗣 Commented on [#372](https://github.com/ChinaGodMan/UserScripts/issues/372#issuecomment-7065187911) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
+9. 🔒 Closed issue [#372](https://github.com/ChinaGodMan/UserScripts/issues/372) in [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)
+10. 🗣 Commented on [#296](https://github.com/ch6vip/novel-sound/issues/296#issuecomment-6768532697) in [ch6vip/novel-sound](https://github.com/ch6vip/novel-sound)
 <!--END_SECTION:activity-->
 
 ---
